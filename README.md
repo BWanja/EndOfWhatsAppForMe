@@ -12,22 +12,26 @@ aus: [2]
 ## Gliederung
 * [Meine Gründe](#Meine-Gründe)
 * [Alternativen](#Alternativen)
+* [Sind meine Daten überhaupt so wichtig?](#Sind-meine-Daten-überhaupt-so-wichtig?)
 * [Nachrichten an meine Kontakte](#Nachrichten-an-meine-Kontakte)
 * [Quellen](#Quellen)
 ---
 
 ## Meine Gründe
 
-Am 07.01.2020 teilte WhatsApp (WA) seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise Facebook (FB) geteilt werden. Stimmt man dieser Erklärung nicht zu, ist WA schlicht ab Februar 2020 nicht mehr nutzbar. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html) einen guten Enstieg.
+Seit der Übernahme von WhatsApp (WA) durch Facebook (FB) im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal ein FB-Account hatte.<br />
+<br />
+Nun ist es offiziell:<br />
+Am *07.01.2020* teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht *binnen eines Monats* zu, ist WA schlicht ab Februar 2020 nicht mehr nutzbar. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html) einen guten Enstieg ins Thema.<br />
 
-Im Folgenden zähle ich stichpunktartig einige Gründe auf.
+Im Folgenden zähle ich stichpunktartig einige Gründe auf, die mir für meine Entscheidung, mich von WA zu verabschieden, genügen. Diese Liste hat keinen Anspruch auf Vollständigkeit und kann beliebig verlängert werden... :wink:
 
 * **WA schnüffelt in meinem Adressbuch rum**
 >Kaum etwas verrät mehr über einen Menschen, als mit wem er Kontakt hat. Aus den Telefonbüchern mehrerer WhatsApp-Nutzerinnen und -Nutzer könnte man problemlos *detaillierte Netzwerke erstellen*. Nichts anderes tun Geheimdienste, wenn sie eine Zielperson ausspionieren.
 Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kontakte ebenfalls WhatsApp nutzen. Das ist praktisch, lässt sich technisch aber auch anders lösen.
 >
 aus: [2]<br />
--> Wie dies auch anderes geht findest Du [hier](#Signal).
+-> Geht das auch anders? Schau mal [hier](#Signal)!
 
 * **WA holt sich Infos über mein Gerät**
 >Geräte- und Verbindungsdaten<br />
@@ -102,6 +106,14 @@ Aus den genannten Gründen möchten wir dich fragen, ob du bereit wärst, dir ei
 
 Wir freuen uns auf dein Feedback und würden uns sehr freuen, wenn du mit uns "umziehen" würdest!
 ```
+
+Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
+
+## Sind meine Daten überhaupt so wichtig?
+
+JAAAA!!!
+
+Podcast einfügen!
 
 Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
 
