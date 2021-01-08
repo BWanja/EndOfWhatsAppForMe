@@ -31,17 +31,17 @@ Am 07.01.2021 teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien
 
 Im Folgenden führe ich **drei Gründe** an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
 
-* **WA holt sich Infos über mein Gerät**
-Aus WAs Dastenschutzerklärung [4]:<br />
+* **WA holt sich Infos über mein Gerät**<br />
+Aus WA's Datenschutzerklärung [4]:<br />
 >Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich individueller IDs für Produkte von Facebook-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
 >
 
-* **WA will wissen, wo ich bin, auch auch wenn ich es ihnen nicht sagen möchte**
-Aus WAs Dastenschutzerklärung [4]:<br />
+* **WA will wissen, wo ich bin, auch auch wenn ich es ihnen nicht sagen möchte**<br />
+Aus WAs Datenschutzerklärung [4]:<br />
 >Mit deiner Zustimmung erheben und nutzen wir _genaue Standortinformationen_ von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. _Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt_, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
 >
 
-* **WA schnüffelt in meinem Adressbuch rum**
+* **WA schnüffelt in meinem Adressbuch rum**<br />
 >Kaum etwas verrät mehr über einen Menschen, als mit wem er Kontakt hat. Aus den Telefonbüchern mehrerer WhatsApp-Nutzerinnen und -Nutzer könnte man problemlos *detaillierte Netzwerke erstellen*. Nichts anderes tun Geheimdienste, wenn sie eine Zielperson ausspionieren.
 Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kontakte ebenfalls WhatsApp nutzen. Das ist praktisch, lässt sich technisch aber auch anders lösen.
 >
