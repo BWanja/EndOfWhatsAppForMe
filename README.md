@@ -37,7 +37,7 @@ Aus WA's Datenschutzerklärung [4]:<br />
 >
 
 * **WA will wissen, wo ich bin, auch auch wenn ich es ihnen nicht sagen möchte**<br />
-Aus WAs Datenschutzerklärung [4]:<br />
+Aus WA's Datenschutzerklärung [4]:<br />
 >Mit deiner Zustimmung erheben und nutzen wir _genaue Standortinformationen_ von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. _Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt_, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
 >
 
