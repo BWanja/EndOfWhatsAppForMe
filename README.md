@@ -39,7 +39,7 @@ Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kont
 Mit deiner Zustimmung erheben und nutzen wir _genaue Standortinformationen_ von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. _Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt_, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
 >
 
-Zurück nach [oben](#Das-Ende-von-WA-für-mich).
+Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Alternativen
 
@@ -47,6 +47,8 @@ Zurück nach [oben](#Das-Ende-von-WA-für-mich).
 Der Messenger Signal hat zum Beispiel keinen Einblick in dein Telefonbuch. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also nur die Hashes, nicht die echten Nummern. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App. (aus )
 
 ### Threema
+
+Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Nachrichten an meine Kontakte
 
@@ -94,7 +96,7 @@ Aus den genannten Gründen möchten wir dich fragen, ob du bereit wärst, dir ei
 Wir freuen uns auf dein Feedback und würden uns sehr freuen, wenn du mit uns "umziehen" würdest!
 ```
 
-Zurück nach [oben](#Das-Ende-von-WA-für-mich).
+Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Quellen
 [1] https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html <br />
@@ -102,4 +104,4 @@ Zurück nach [oben](#Das-Ende-von-WA-für-mich).
 [3] https://www.whatsapp.com/legal/updates/terms-of-service-eea <br />
 [4]	https://www.whatsapp.com/legal/updates/privacy-policy-eea <br />
 
-Zurück nach [oben](#Das-Ende-von-WA-für-mich).
+Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
