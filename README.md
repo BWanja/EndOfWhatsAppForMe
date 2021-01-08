@@ -4,13 +4,13 @@
   (Abbildung entnommen aus: [2])
 </p>
 Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich nachdem ich meinen WhatsApp-Account gelöscht habe nicht tot und ich möchte auch nicht den Kontakt zu euch, meinen Freunden und Bekannten, abbrechen! Über *Signal*, *Threema*, *Telegram*, *Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
-
 ---
 ## Gliederung
 * [Meine Gründe](#Meine-Gründe)
 * [Alternativen](#Alternativen)
 * [Sind meine Daten überhaupt so wichtig?](#Sind-meine-Daten-überhaupt-so-wichtig)
 * [Nachrichten an meine Kontakte](#Nachrichten-an-meine-Kontakte)
+* [Weiteres zum Thema](#Weiteres-zum-Thema)
 * [Quellen](#Quellen)
 ---
 
@@ -19,7 +19,7 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 Seit der Übernahme von WhatsApp (WA) durch Facebook (FB) im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal ein FB-Account hatte.<br />
 <br />
 Nun ist es offiziell:<br />
-Am *07.01.2020* teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht *binnen eines Monats* zu, ist WA schlicht ab Februar 2020 nicht mehr nutzbar. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html) einen guten Enstieg ins Thema.<br />
+Am *07.01.2020* teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht *binnen eines Monats* zu, ist WA schlicht ab Februar 2020 nicht mehr nutzbar. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise:WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
 Im Folgenden zähle ich stichpunktartig einige Gründe auf, die mir für meine Entscheidung, mich von WA zu verabschieden, genügen. Diese Liste hat keinen Anspruch auf Vollständigkeit und kann beliebig verlängert werden... :wink:
 
@@ -47,7 +47,7 @@ Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 ## Alternativen
 
 Es gibt eine Vielzahl an Alternativen zu WA.
-Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html) einen sehr guten Überblick.
+Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html 'Heise: Alternativen zu WA') einen sehr guten Überblick.
 
 ### Signal
 >Der Messenger Signal hat zum Beispiel _keinen Einblick in dein Telefonbuch_. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also nur die Hashes, nicht die echten Nummern. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App.
@@ -120,10 +120,10 @@ Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 * Über den Einfluss von *GAFAM* (Google, Amazon, Facebook, Microsoft): <br />
   * Paul Nemitz u. Matthias Pfeffer: *Prinzip Mensch, Macht, Freiheit und Demokratie im Zeitalter der Künstlichen Intelligenz* <br />
-  * (siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/ 'Homepage Prinzip Mensch')) <br />
+  * siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/ 'Homepage Prinzip Mensch') <br />
 * Über den Einfluss von *Social Media*: <br />
   * Jaron Lanier: *Zehn Gründe, warum du deine Social Media Accounts sofort löschen musst* <br />
-Über die Bedeutung von *Metadaten*:
+* Über die Bedeutung von *Metadaten*:
   * Edward Snowden: *Permanent Record*
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
