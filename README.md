@@ -1,7 +1,7 @@
 # Das Ende von WhatsApp für mich
 <p align="center">
   <img src="/Images/WAWegwerfen.png"><br />
-  (Abbildung entnommen aus: [2])
+  (Abbildung entnommen aus: [2][2])
 </p>
 Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich nachdem ich meinen WhatsApp-Account gelöscht habe nicht tot und ich möchte auch nicht den Kontakt zu euch, meinen Freunden und Bekannten, abbrechen! Über *Signal*, *Threema*, *Telegram*, *Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder persönlich sehen können!
 
@@ -18,7 +18,7 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 Seit der Übernahme von WhatsApp (WA) durch Facebook (FB) im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal ein FB-Account hatte.<br />
 <br />
-Nun ist es offiziell:<br />
+__Nun ist es offiziell:__<br />
 Am *07.01.2020* teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht *binnen eines Monats* zu, ist WA schlicht ab Februar 2020 nicht mehr nutzbar. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html) einen guten Enstieg ins Thema.<br />
 
 Im Folgenden zähle ich stichpunktartig einige Gründe auf, die mir für meine Entscheidung, mich von WA zu verabschieden, genügen. Diese Liste hat keinen Anspruch auf Vollständigkeit und kann beliebig verlängert werden... :wink:
@@ -116,7 +116,7 @@ Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Quellen
 [1] https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html <br />
-[2] https://www.vice.com/de/article/qj4qjd/whatsapp-datenschutz-warum-signal-threema-und-co-besser-sind <br />
+[2]: https://www.vice.com/de/article/qj4qjd/whatsapp-datenschutz-warum-signal-threema-und-co-besser-sind <br />
 [3] https://www.whatsapp.com/legal/updates/terms-of-service-eea <br />
 [4]	https://www.whatsapp.com/legal/updates/privacy-policy-eea <br />
 
