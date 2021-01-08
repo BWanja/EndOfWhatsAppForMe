@@ -3,7 +3,7 @@
 
 Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren.
 
-<p align="center">
+<p align="left">
   <img src="/Images/WAWegwerfen.png">
 </p>
 aus: [2]
@@ -31,7 +31,7 @@ Zurück nach [oben](#Das-Ende-von-WA-für-mich).
 Zurück nach [oben](#Das-Ende-von-WA-für-mich).
 
 ## Quellen
-[1] https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html \n
+[1] https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html <br />
 [2] https://www.vice.com/de/article/qj4qjd/whatsapp-datenschutz-warum-signal-threema-und-co-besser-sind
 
 Zurück nach [oben](#Das-Ende-von-WA-für-mich).
