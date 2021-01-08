@@ -118,10 +118,15 @@ Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Weiteres zum Thema
 
-Paul Nemitz u. Matthias Pfeffer: _Prinzip Mensch, Macht, Freiheit und Demokratie im Zeitalter der Künstlichen Intelligenz_ <br />
-(siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/ 'Homepage Prinzip Mensch')) <br />
-Jaron Lanier: _Zehn Gründe, warum du deine Social Media Accounts sofort löschen musst_ <br />
+* Über den Einfluss von *GAFAM* (Google, Amazon, Facebook, Microsoft): <br />
+  * Paul Nemitz u. Matthias Pfeffer: *Prinzip Mensch, Macht, Freiheit und Demokratie im Zeitalter der Künstlichen Intelligenz* <br />
+  * (siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/ 'Homepage Prinzip Mensch')) <br />
+* Über den Einfluss von *Social Media*: <br />
+  * Jaron Lanier: *Zehn Gründe, warum du deine Social Media Accounts sofort löschen musst* <br />
+Über die Bedeutung von *Metadaten*:
+  * Edward Snowden: *Permanent Record*
 
+Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Quellen
 [1] https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html <br />
