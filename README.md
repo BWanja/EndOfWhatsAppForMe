@@ -1,5 +1,7 @@
-# Das Ende von WA für mich
-Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WA den Rücken zuzukehren.
+# Das Ende von WhatsApp für mich
+
+
+Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren.
 
 <p align="center">
   <img src="/Images/WAWegwerfen.png">
@@ -8,14 +10,18 @@ Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich da
 ---
 
 ## Gliederung
-* [Meine Gründe WA den Rücken zuzukehren](#Meine-Gründe-WA-den-Rücken-zuzukehren)
-* [Alternativen](#alternativen)
-* [Quellen](#quellen)
-* [Markdown Reference](#markdown-reference)
+* [Meine Gründe](#Meine-Gründe)
+* [Alternativen](#Alternativen)
+* [Quellen](#Quellen)
+* [Markdown Reference](#Markdown-Reference)
 
 ---
 
-## Meine Gründe WA den Rücken zuzukehren
+## Meine Gründe
+
+Am 07.01.2020 teilte WhatsApp (WA) seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise Facebook (FB) geteilt werden. Stimmt man dieser Erklärung nicht zu, ist WA schlicht ab Februar 2020 nicht mehr nutzbar. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html) einen guten Enstieg.
+
+Im Folgenden zähle ich stichpunktartig einige Gründe auf. 
 
 Zurück nach [oben](#Das-Ende-von-WA-für-mich).
 
