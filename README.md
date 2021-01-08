@@ -118,7 +118,8 @@ Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Weiteres zum Thema
 
-Paul Nemitz u. Matthias Pfeffer: _Prinzip Mensch, Macht, Freiheit und Demokratie im Zeitalter der Künstlichen Intelligenz_ (siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/)<br />
+Paul Nemitz u. Matthias Pfeffer: _Prinzip Mensch, Macht, Freiheit und Demokratie im Zeitalter der Künstlichen Intelligenz_ <br />
+(siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/ 'Homepage Prinzip Mensch')) <br />
 Jaron Lanier: _Zehn Gründe, warum du deine Social Media Accounts sofort löschen musst_ <br />
 
 
