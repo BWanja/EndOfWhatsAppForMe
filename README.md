@@ -2,8 +2,8 @@
 <br />
 <p align="center">
   <img src="/Images/WAWegwerfen.png">
-</p>
-aus: [2]
+  <br />
+(Abbildung entnommen aus: [2])</p>
 <br />
 Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich nachdem ich meinen WhatsApp-Account gelöscht habe nicht tot und ich möchte auch nicht den Kontakt zu euch, meinen Freunden und Bekannten, abbrechen! Über *Signal*, *Threema*, *Telegram*, *Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder persönlich sehen können!
 
