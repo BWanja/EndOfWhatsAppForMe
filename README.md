@@ -24,12 +24,22 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 ## Meine Gründe
 
-Seit der Übernahme von WhatsApp (WA) durch Facebook (FB) im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal ein FB-Account hatte.<br />
+Seit der **Übernahme von WhatsApp (WA) durch Facebook (FB)** im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal ein FB-Account hatte.<br />
 <br />
 Nun ist es offiziell:<br />
-Am *07.01.2021* teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht *binnen eines Monats* zu, ist *WA schlicht ab Februar 2021 nicht mehr nutzbar*. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
+Am 07.01.2021 teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
-Im Folgenden führe ich drei Gründe an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
+Im Folgenden führe ich **drei Gründe** an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
+
+* **WA holt sich Infos über mein Gerät**
+Aus WAs Dastenschutzerklärung [4]:<br />
+>Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich individueller IDs für Produkte von Facebook-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
+>
+
+* **WA will wissen, wo ich bin, auch auch wenn ich es ihnen nicht sagen möchte**
+Aus WAs Dastenschutzerklärung [4]:<br />
+>Mit deiner Zustimmung erheben und nutzen wir _genaue Standortinformationen_ von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. _Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt_, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
+>
 
 * **WA schnüffelt in meinem Adressbuch rum**
 >Kaum etwas verrät mehr über einen Menschen, als mit wem er Kontakt hat. Aus den Telefonbüchern mehrerer WhatsApp-Nutzerinnen und -Nutzer könnte man problemlos *detaillierte Netzwerke erstellen*. Nichts anderes tun Geheimdienste, wenn sie eine Zielperson ausspionieren.
@@ -37,18 +47,6 @@ Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kont
 >
 (aus: [2])<br />
 -> Geht das auch anders? Schau mal [hier](#Signal)!
-
-* **WA holt sich Infos über mein Gerät**
->Geräte- und Verbindungsdaten<br />
-Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich individueller IDs für Produkte von Facebook-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
->
-(aus: [4])<br />
-
-* **WA will wissen, wo ich bin, auch auch wenn ich es ihnen nicht sagen möchte**
->Standort-Informationen<br />
-Mit deiner Zustimmung erheben und nutzen wir _genaue Standortinformationen_ von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. _Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt_, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
->
-(aus: [4])<br />
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
