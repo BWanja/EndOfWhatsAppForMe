@@ -2,7 +2,7 @@
 Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WA den Rücken zuzukehren.
 
 <p align="center">
-  <img src=" EndOfWA/Images/whatsappwegwerfen.webp">
+  <img src=" EndOfWA/Images/WAWegwerfen.png EndOfWA/Images/WAWegwerfen.png ">
 </p>
 
 ---
