@@ -12,7 +12,7 @@ aus: [2]
 ## Gliederung
 * [Meine Gründe](#Meine-Gründe)
 * [Alternativen](#Alternativen)
-* [Sind meine Daten überhaupt so wichtig?](#Sind-meine-Daten-überhaupt-so-wichtig?)
+* [Sind meine Daten überhaupt so wichtig?](#Sind-meine-Daten-überhaupt-so-wichtig)
 * [Nachrichten an meine Kontakte](#Nachrichten-an-meine-Kontakte)
 * [Quellen](#Quellen)
 ---
@@ -45,7 +45,7 @@ Mit deiner Zustimmung erheben und nutzen wir _genaue Standortinformationen_ von 
 >
 aus: [4]<br />
 
-Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Alternativen
 
