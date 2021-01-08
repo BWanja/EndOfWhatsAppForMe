@@ -45,10 +45,15 @@ Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Alternativen
 
+Es gibt eine Vielzahl an Alternativen zu WA.
+Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html) einen sehr guten Überblick.
+
 ### Signal
 Der Messenger Signal hat zum Beispiel keinen Einblick in dein Telefonbuch. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also nur die Hashes, nicht die echten Nummern. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App. (aus )
 
 ### Threema
+
+### Telegram
 
 Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
 
