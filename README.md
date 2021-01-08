@@ -1,9 +1,9 @@
 # Das Ende von WhatsApp für mich
 <p align="center">
   <img src="/Images/WAWegwerfen.png"><br />
-  (Abbildung entnommen aus: [link][2])
+  (Abbildung entnommen aus: [2])
 </p>
-Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich nachdem ich meinen WhatsApp-Account gelöscht habe nicht tot und ich möchte auch nicht den Kontakt zu euch, meinen Freunden und Bekannten, abbrechen! Über *Signal*, *Threema*, *Telegram*, *Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder persönlich sehen können!
+Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich nachdem ich meinen WhatsApp-Account gelöscht habe nicht tot und ich möchte auch nicht den Kontakt zu euch, meinen Freunden und Bekannten, abbrechen! Über *Signal*, *Threema*, *Telegram*, *Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
 
 ---
 ## Gliederung
@@ -18,7 +18,7 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 Seit der Übernahme von WhatsApp (WA) durch Facebook (FB) im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal ein FB-Account hatte.<br />
 <br />
-__Nun ist es offiziell:__<br />
+Nun ist es offiziell:<br />
 Am *07.01.2020* teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht *binnen eines Monats* zu, ist WA schlicht ab Februar 2020 nicht mehr nutzbar. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html) einen guten Enstieg ins Thema.<br />
 
 Im Folgenden zähle ich stichpunktartig einige Gründe auf, die mir für meine Entscheidung, mich von WA zu verabschieden, genügen. Diese Liste hat keinen Anspruch auf Vollständigkeit und kann beliebig verlängert werden... :wink:
@@ -50,7 +50,9 @@ Es gibt eine Vielzahl an Alternativen zu WA.
 Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html) einen sehr guten Überblick.
 
 ### Signal
-Der Messenger Signal hat zum Beispiel keinen Einblick in dein Telefonbuch. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also nur die Hashes, nicht die echten Nummern. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App. (aus )
+>Der Messenger Signal hat zum Beispiel _keinen Einblick in dein Telefonbuch_. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also nur die Hashes, nicht die echten Nummern. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App.
+>
+(aus: [2])<br />
 
 ### Threema
 
@@ -114,10 +116,16 @@ Podcast einfügen!
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
+## Weiteres zum Thema
+
+https://prinzipmenscheu.wordpress.com/
+
+
 ## Quellen
 [1] https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html <br />
-[2]: https://www.vice.com/de/article/qj4qjd/whatsapp-datenschutz-warum-signal-threema-und-co-besser-sind <br />
+[2] https://www.vice.com/de/article/qj4qjd/whatsapp-datenschutz-warum-signal-threema-und-co-besser-sind <br />
 [3] https://www.whatsapp.com/legal/updates/terms-of-service-eea <br />
 [4]	https://www.whatsapp.com/legal/updates/privacy-policy-eea <br />
+[5] https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html?seite=all <br />
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
