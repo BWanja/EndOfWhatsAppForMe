@@ -9,14 +9,11 @@ Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich da
 aus: [2]
 
 ---
-
 ## Gliederung
 * [Meine Gründe](#Meine-Gründe)
 * [Alternativen](#Alternativen)
-* [Quellen](#Quellen)
-* [Markdown Reference](#Markdown-Reference)
 * [Nachrichten an meine Kontakte](#Nachrichten-an-meine-Kontakte)
-
+* [Quellen](#Quellen)
 ---
 
 ## Meine Gründe
@@ -31,9 +28,9 @@ Kaum etwas verrät mehr über einen Menschen, als mit wem er Kontakt hat. Aus de
 Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kontakte ebenfalls WhatsApp nutzen. Das ist praktisch, lässt sich technisch aber auch anders lösen.
 
 ### Aus den WA Datenschutzrichtlinien
-
 >**Geräte- und Verbindungsdaten** (aus: [4])<br />
->Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen >zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, >einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich >individueller IDs für Produkte von Facebook-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
+Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich individueller IDs für Produkte von Facebook-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
+>
 
 >**Standort-Informationen** (aus: [4])<br />
 Mit deiner Zustimmung erheben und nutzen wir _genaue Standortinformationen_ von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. _Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt_, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
