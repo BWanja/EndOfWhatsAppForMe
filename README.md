@@ -1,12 +1,11 @@
 # Das Ende von WhatsApp für mich
-
-
-Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren.
-
-<p align="left">
+<br />
+<p align="center">
   <img src="/Images/WAWegwerfen.png">
 </p>
 aus: [2]
+<br />
+Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich nachdem ich meinen WhatsApp-Account gelöscht habe nicht tot und ich möchte auch nicht den Kontakt zu euch, meinen Freunden und Bekannten, abbrechen! Über *Signal*, *Threema*, *Telegram*, *Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder persönlich sehen können!
 
 ---
 ## Gliederung
@@ -59,7 +58,7 @@ Der Messenger Signal hat zum Beispiel keinen Einblick in dein Telefonbuch. Statt
 
 ### Telegram
 
-Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Nachrichten an meine Kontakte
 
@@ -107,15 +106,15 @@ Aus den genannten Gründen möchten wir dich fragen, ob du bereit wärst, dir ei
 Wir freuen uns auf dein Feedback und würden uns sehr freuen, wenn du mit uns "umziehen" würdest!
 ```
 
-Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Sind meine Daten überhaupt so wichtig?
 
-JAAAA!!!
+Jaaa!!!11!
 
 Podcast einfügen!
 
-Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 ## Quellen
 [1] https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html <br />
@@ -123,4 +122,4 @@ Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
 [3] https://www.whatsapp.com/legal/updates/terms-of-service-eea <br />
 [4]	https://www.whatsapp.com/legal/updates/privacy-policy-eea <br />
 
-Zurück nach [oben](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
