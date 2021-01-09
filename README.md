@@ -49,7 +49,7 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kontakte ebenfalls WhatsApp nutzen. Das ist praktisch, lässt sich technisch aber auch anders lösen.
 ><br />
 
--> Geht das auch anders? Schau mal [hier](#Signal)!
+-> Geht das auch anders? Gott sei Dank, ja! Schau mal [hier](#Signal)!
 
 * **WA trackt meine Nutzung immer und überall**
 
@@ -60,7 +60,7 @@ Aus WA's Datenschutzerklärung [4]:<br />
 >Wir erheben Informationen über deine Aktivität auf unseren Diensten. [...] Dies umfasst auch **Informationen über deine Aktivität** (beispielsweise wie du unsere Dienste nutzt, deine Einstellungen für Dienste, wie du mit anderen unter Nutzung unserer Dienste interagierst (z. B. wenn du mit einem Unternehmen interagierst) sowie **Zeitpunkt, Häufigkeit und Dauer deiner Aktivitäten und Interaktionen**), [...] Dies umfasst auch Informationen darüber, wann du dich für die Nutzung unserer Dienste registriert hast, Informationen über die von dir genutzten Funktionen wie unsere Nachrichten-, Anruf-, Status-, Gruppen- (darunter Gruppenname, Gruppenbild, Gruppenbeschreibung), Zahlungs- oder Geschäftsfunktionen, über dein Profilbild, über deine **Info, dazu, ob du gerade online bist, wann du zuletzt unsere Dienste genutzt hast (dein „Zuletzt online“) und wann du zuletzt deine Info aktualisiert hast**. 
 ><br />
 
-Schau dir bitte den nächten [Abschnitt](#Sind-meine-Daten-überhaupt-so-wichtig) an, um zu erfahren, was man durch *clevere* Verarbeitung deiner Meta-Daten über Dich erfahren kann.<br />
+Schau dir bitte noch den nächsten [Abschnitt](#Sind-meine-Daten-überhaupt-so-wichtig) an, um zu erfahren, was man durch *clevere* Verarbeitung deiner Meta-Daten über Dich erfahren kann.<br />
 Mit der geänderten Datenschutzerklärung von WA ist es nun kla, dass auch FB all diese Daten über mich hat, auch wenn ich mittlerweile gar keinen FB-Account mehr habe!<br />
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
