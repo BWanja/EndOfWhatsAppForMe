@@ -4,7 +4,7 @@
   (Abbildung entnommen aus: [2])
 </p>
 
-Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich, nachdem ich meinen WhatsApp-Account gelöscht habe, nicht tot und ich möchte auch nicht den Kontakt zu euch, meinen Freunden und Bekannten, abbrechen! <br />
+Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben, WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich, nachdem ich meinen WhatsApp-Account gelöscht habe, nicht tot und ich möchte auch nicht den Kontakt zu Dir oder meinen anderen Freunden und Bekannten, abbrechen!<br />
 Über *Signal*, *Threema*, *Telegram*, *Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
 
 ---
@@ -20,28 +20,28 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 ## Meine Gründe
 
-Seit der **Übernahme von WhatsApp (WA) durch Facebook (FB)** im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal ein FB-Account hatte.<br />
+Seit der **Übernahme von WhatsApp (WA) durch Facebook (FB)** im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal einen FB-Account hatte.<br />
 <br />
 Nun ist es offiziell:<br />
-Am 07.01.2021 teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
+Am 07.01.2021 teilte WA seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass Informationen, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
 Im Folgenden führe ich **vier Gründe** an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
 
-* **WA holt sich Infos über mein Gerät**<br />
+1. **WA holt sich Infos über mein Gerät**<br />
 
 Aus WA's Datenschutzerklärung [4]:<br />
 
 >Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich individueller IDs für Produkte von Facebook-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
 >
 
-* **WA will wissen, wo ich bin, auch auch wenn ich es ihnen nicht sagen möchte**<br />
+2. **WA will wissen, wo ich bin, auch auch wenn ich es ihnen nicht sagen möchte**<br />
 
 Aus WA's Datenschutzerklärung [4]:<br />
 
 >Mit deiner Zustimmung erheben und nutzen wir **genaue Standortinformationen** von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. **Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt**, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
 ><br />
 
-* **WA schnüffelt in meinem Adressbuch rum**<br />
+3. **WA schnüffelt in meinem Adressbuch rum**<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
@@ -51,7 +51,7 @@ Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kont
 
 -> Geht das auch anders? Gott sei Dank, ja! Schau mal [hier](#Signal)!
 
-* **WA trackt meine Nutzung immer und überall**
+4. **WA trackt meine Nutzung immer und überall**
 
 Auch wenn WA Dank End-zu-Ende-Verschlüsselung vielleict nicht weis _WAS_ ich mit euch schreibe, so weis WA aber genau _DAS_ ich mit euch schreibe!<br />
 
