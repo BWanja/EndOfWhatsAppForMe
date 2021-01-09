@@ -77,7 +77,7 @@ oder<br />
 _"Jetzt ist doch eh schon zu spät."_<br />
 
 Dann möchste ich dir gerne folgenden Podcast an Herz legen: [LegalBits Folge 16](https://www.stiegler-legal.com/blog/blog-podcast_folge_16 'LegalBits 16').<br />
-Hier wird mit diesen vermeintlichen Argumenten gegen den Datenschutz aufgeräumt und verdeutlicht, warum es so wichtig ist, auf seine Daten zu achten.<br />
+Hier wird mit diesen vermeintlichen Argumenten gegen den Datenschutz aufgeräumt und verdeutlicht, warum es so wichtig ist, dass wir auf unsere Daten achten.<br />
 
 Welche Informationen über einen Menschen man allein aus der Verarbeitung seiner Meta-Daten gewinnen kann, hat David Kriesel auf dem 33c3 mit seinem Vortrag *SpiegelMining – Reverse Engineering von Spiegel-Online* ziemlich eindrucksvoll vorgeführt.<br />
 [Hier](https://www.youtube.com/watch?v=-YpwsdRKt8Q 'SpiegelMining') sagt David ab ca. Minute 16:47 Folgendes:<br />
@@ -105,63 +105,22 @@ Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
-## Nachrichten an meine Kontakte
-
-### Nachricht WA-Gruppen
-```
-Moin!
-Ist euch das hier gestern aufgefallen?
-
-https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html
-
-Ab Februar ist WA quasi nicht mehr nutzbar, wenn man nicht die Einverständnis dazu gibt, dass auch FB die Daten von WA nutzen kann. Es geht, soweit ich das überblicken kann, nicht um den Inhalt von Nachrichten. Diese bleiben weiterhin Ende-zu-Ende-verschlüsselt und sollten damit sicher sein. Es geht um Daten des Adressbuches und andere Informationen, wie z.B. Nutzungsinfos (Häufigkeit, Uhrzeit, Dauer), Standort, Systeminfo, etc...
-
-Hier 2 Bsp. aus den Datenschutzrichtlinien von WA über geteilte Informationen:
-
-_[...] Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen [...]_
-
-_[...] Einstellungen zum Teilen deines Standorts. Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können [...]_
-
-Rahel und ich möchten daher weg von WA kommen. Leider ist das gar nicht so einfach und auch nicht mit bloßem Account-löschen getan, wenn man nicht allen Kontakt abrupt verlieren möchte. Wir wollen aber die Nutzung von WA auf jeden Fall stark einschränken und hoffen auf lange Sicht ganz weg von dieser App zu kommen.
-
-Aus den genannten Gründen möchten wir euch fragen, ob ihr bereit wärt, euch einen weiteren Messenger zu installieren und unsere Kommunikation dort hin zu verlagern. Rahel und ich würden *Signal* (kostenlos, open source, von Experten bestätigte Sicherheit der Verschlüsselung, leider nicht ganz so sexy wie WA) oder *Threema* (Preis einmalig 3,99€, nicht open source aber dennoch als vertrauenswürdig eingestuft) präferieren.
-
-Wir freuen uns auf euer Feedback und würden uns sehr freuen, wenn ihr mit uns "umziehen" würdet!
-```
-
-### Nachricht WA-Einzelpersonen
-```
-Moin!
-Ist dir das hier gestern aufgefallen?
-
-https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html
-
-Ab Februar ist WA quasi nicht mehr nutzbar, wenn man nicht die Einverständnis dazu gibt, dass auch FB die Daten von WA nutzen kann. Es geht, soweit ich das überblicken kann, nicht um den Inhalt von Nachrichten. Diese bleiben weiterhin Ende-zu-Ende-verschlüsselt und sollten damit sicher sein. Es geht um Daten des Adressbuches und andere Informationen, wie z.B. Nutzungsinfos (Häufigkeit, Uhrzeit, Dauer), Standort, Systeminfo, etc...
-
-Hier 2 Bsp. aus den Datenschutzrichtlinien von WA über geteilte Informationen:
-
-_[...] Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen [...]_
-
-_[...] Einstellungen zum Teilen deines Standorts. Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können_ [...]
-
-Rahel und ich möchten daher weg von WA kommen. Leider ist das gar nicht so einfach und auch nicht mit bloßem Account-löschen getan, wenn man nicht allen Kontakt abrupt verlieren möchte. Wir wollen aber die Nutzung von WA auf jeden Fall stark einschränken und hoffen auf lange Sicht ganz weg von dieser App zu kommen.
-
-Aus den genannten Gründen möchten wir dich fragen, ob du bereit wärst, dir einen weiteren Messenger zu installieren und unsere Kommunikation dort hin zu verlagern. Rahel und ich würden *Signal* (kostenlos, open source, von Experten bestätigte Sicherheit der Verschlüsselung, leider nicht ganz so sexy wie WA) oder *Threema* (Preis einmalig 3,99€, nicht open source aber dennoch als vertrauenswürdig eingestuft) präferieren.
-
-Wir freuen uns auf dein Feedback und würden uns sehr freuen, wenn du mit uns "umziehen" würdest!
-```
-
-Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
-
 ## Weiteres zum Thema
+
+**WOW, Du hast Dich echt bist hier unten durchgeareitet?!?! :flushed::flushed::flushed:**<br />
+
+Falls Du dich noch ein bisschen mehr mit dem Thema beschäftigen möchtest, habe ich hier noch drei Bücher für Dich, die dir mit Sicherheit Freude ereiten werden.<br />
 
 * Über den Einfluss von *GAFAM* (Google, Amazon, Facebook, Microsoft): <br />
   * Paul Nemitz u. Matthias Pfeffer: *Prinzip Mensch, Macht, Freiheit und Demokratie im Zeitalter der Künstlichen Intelligenz* <br />
   * siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/ 'Homepage Prinzip Mensch') <br />
 * Über den Einfluss von *Social Media*: <br />
   * Jaron Lanier: *Zehn Gründe, warum du deine Social Media Accounts sofort löschen musst* <br />
-* Über die Bedeutung von *Meta-Daten*:
-  * Edward Snowden: *Permanent Record*
+* Über die Bedeutung von *Meta-Daten*:<br />
+  * Edward Snowden: *Permanent Record*<br />
+
+Ich freue mich natürlich auch über **Feedback** und würde mich sehr freuen, mit Dir **über das Thema zu diskutieren**.
+**Aber**: Bitte nicht auf WA... :wink:<br />
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
