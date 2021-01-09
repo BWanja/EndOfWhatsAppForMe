@@ -76,7 +76,7 @@ oder<br />
 
 _"Jetzt ist doch eh schon zu spät."_<br />
 
-Dann möchste ich dir gerne folgenden Podcast an Herz legen: [LegalBits Folge 16](https://www.stiegler-legal.com/blog/blog-podcast_folge_16 'LegalBits 16').<br />
+Dann möchte ich Dir gerne folgenden Podcast and Herz legen: [LegalBits Folge 16](https://www.stiegler-legal.com/blog/blog-podcast_folge_16 'LegalBits 16').<br />
 Hier wird mit diesen vermeintlichen Argumenten gegen den Datenschutz aufgeräumt und verdeutlicht, warum es so wichtig ist, dass wir auf unsere Daten achten.<br />
 
 Welche Informationen über einen Menschen man allein aus der Verarbeitung seiner Meta-Daten gewinnen kann, hat David Kriesel auf dem 33c3 mit seinem Vortrag *SpiegelMining – Reverse Engineering von Spiegel-Online* ziemlich eindrucksvoll vorgeführt.<br />
