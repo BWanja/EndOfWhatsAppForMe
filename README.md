@@ -5,7 +5,7 @@
 </p>
 
 Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben, WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich, nachdem ich meinen WhatsApp-Account gelöscht habe, nicht tot und ich möchte auch nicht den Kontakt zu Dir oder meinen anderen Freunden und Bekannten, abbrechen!<br />
-Über *Signal*, *Threema*, *Telegram*, *Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
+Über *Signal*, *Threema*, *Telegram*, *E-Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
 
 ---
 ## Gliederung
@@ -112,7 +112,7 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 **+** Zwar nicht open-source, aber dennoch von Experten als sicher bewertet<br />
 **+** Zwar keine Desktop-App für den PC verfügbar, aber mit ThreemaWeb auch problemlos am PC nutzbar<br />
 **-** Nicht kostenlos (zur Zeit einmalig 3,99€), aber das ist mir die sichere Kommunikation mit Dir auf jeden Fall wert!<br />
-**-** Auf den erst Blick ein verwirrendes Ampelsystem zur Nutzervalidierung<br />
+**-** Auf den erst Blick verwirrendes Ampelsystem zur Nutzervalidierung<br />
 
 ### Telegram
 
@@ -155,6 +155,6 @@ Zurück nach [:arrow_up:](#Gliederung).
 
 ## Disclaimer
 
-Diese Seite stellt keinerlei Ansprüche an Vollständigkeit und korrektheit. Auch wenn ich mich bemüht habe, überall die Quellen korrekt anzugeben, stellt der Großteil meine persönliche Meinung dar und kann daher nicht als in den Stein gemeißelte Wahrheit angenommen werden. Um die Gesamtheit der Thematik zu durchblicken fehlt mir leider das nötige Know-How. Trotzdem hoffe ich, dass ich Dir ein paar Infos weitergeben und zum Nachdenken anregen konnte.<br />
+Diese Seite stellt keinerlei Ansprüche an Vollständigkeit und Korrektheit. Auch wenn ich mich bemüht habe, überall die Quellen korrekt anzugeben, stellt der Großteil meine persönliche Meinung dar und kann daher nicht als in den Stein gemeißelte Wahrheit angenommen werden. Um die Gesamtheit der Thematik zu durchblicken fehlt mir leider das nötige Know-How. Trotzdem hoffe ich, dass ich Dir ein paar Infos weitergeben und zum Nachdenken anregen konnte.<br />
 
 Zurück nach [:arrow_up:](#Gliederung).
