@@ -99,7 +99,7 @@ Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer
 **+** kostenlos <br />
 **+** open-source<br />
 **+** durch Experten bestätigte Sicherheit<br />
-**+** Desktop-App für den PC verfügbar
+**+** Desktop-App für den PC verfügbar<br />
 **-** meiner Meinung nach, optisch nicht ganz so sexy wie andere Messenger<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
@@ -117,7 +117,7 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
 **+** Look-and-Feel sehr ähnlich zu WA<br />
 **+** abonnierbare News-Channels<br />
-**+** Desktop-App für den PC verfügbar
+**+** Desktop-App für den PC verfügbar<br />
 **-** *geheime* Chats möglich, aber Einstellung umständlich <br />
 
 -> Zur Sicherheit von Telegram empfehle ich den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram')
