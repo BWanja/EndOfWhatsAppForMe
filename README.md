@@ -62,7 +62,7 @@ Aus WA's Datenschutzerklärung [4]:<br />
 
 Schau dir bitte noch den nächsten [Abschnitt](#Sind-meine-Daten-überhaupt-so-wichtig) an, um zu erfahren, was man durch *clevere* Verarbeitung deiner Meta-Daten über Dich erfahren kann. Mit der geänderten Datenschutzerklärung von WA ist es nun kla, dass auch FB all diese Daten über mich hat, auch wenn ich mittlerweile gar keinen FB-Account mehr habe!<br />
 
-Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Gliederung).
 
 ## Sind meine Daten überhaupt so wichtig?
 
@@ -87,7 +87,7 @@ Welche Informationen über einen Menschen man allein aus der Verarbeitung seiner
 
 Und dies alles nur aus Meta-Daten, also ohne Inhalte...<br />
 
-Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Gliederung).
 
 ## Alternativen
 
@@ -122,7 +122,7 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
 -> Zur Sicherheit von Telegram empfehle ich den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram')
 
-Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Gliederung).
 
 ## Weiteres zum Thema
 
@@ -141,7 +141,7 @@ Falls Du dich noch ein bisschen mehr mit dem Thema beschäftigen möchtest, habe
 Ich freue mich natürlich auch über **Feedback** und würde mich sehr freuen, mit Dir **über das Thema zu diskutieren**.<br />
 **Aber**: Bitte nicht auf WA... :wink:<br />
 
-Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Gliederung).
 
 ## Quellen
 [1] https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html <br />
@@ -150,10 +150,10 @@ Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 [4]	https://www.whatsapp.com/legal/updates/privacy-policy-eea <br />
 [5] https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html?seite=all <br />
 
-Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Gliederung).
 
 ## Disclaimer
 
 Diese Seite stellt keinerlei Ansprüche an Vollständigkeit und korrektheit. Auch wenn ich mich bemüht habe, überall die Quellen korrekt anzugeben, stellt der Großteil meine persönliche Meinung dar und kann daher nicht als in den Stein gemeißelte Wahrheit angenommen werden. Um die Gesamtheit der Thematik zu durchblicken fehlt mir leider das nötige Know-How. Trotzdem hoffe ich, dass ich Dir ein paar Infos weitergeben und zum Nachdenken anregen konnte.<br />
 
-Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
+Zurück nach [:arrow_up:](#Gliederung).
