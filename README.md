@@ -95,11 +95,19 @@ Es gibt eine Vielzahl an Alternativen zu WA.
 Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html 'Heise: Alternativen zu WA') einen sehr guten Überblick.
 
 ### Signal
+
+**+** kostenlos <br />
+**+** open-source<br />
+**+** durch Experten bestätigte Sicherheit<br />
+**-** meiner Meinung nach, optisch nicht ganz so sexy wie andere Messenger<br />
+
+Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
+
 >Der Messenger Signal hat zum Beispiel _keinen Einblick in dein Telefonbuch_. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also nur die Hashes, nicht die echten Nummern. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App.
 >
-(aus: [2])<br />
 
 ### Threema
+**+** zwar nicht open-source, aber dennoch von Experten als Sicher bewertet
 
 ### Telegram
 
@@ -119,7 +127,7 @@ Falls Du dich noch ein bisschen mehr mit dem Thema beschäftigen möchtest, habe
 * Über die Bedeutung von *Meta-Daten*:<br />
   * Edward Snowden: *Permanent Record*<br />
 
-Ich freue mich natürlich auch über **Feedback** und würde mich sehr freuen, mit Dir **über das Thema zu diskutieren**.
+Ich freue mich natürlich auch über **Feedback** und würde mich sehr freuen, mit Dir **über das Thema zu diskutieren**.<br />
 **Aber**: Bitte nicht auf WA... :wink:<br />
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
