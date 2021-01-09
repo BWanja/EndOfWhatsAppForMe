@@ -155,6 +155,6 @@ Zurück nach [:arrow_up:](#Gliederung).
 
 ## Disclaimer
 
-Diese Seite stellt keinerlei Ansprüche an Vollständigkeit und Korrektheit. Auch wenn ich mich bemüht habe, überall die Quellen korrekt anzugeben, stellt der Großteil meine persönliche Meinung dar und kann daher nicht als in den Stein gemeißelte Wahrheit angenommen werden. Um die Gesamtheit der Thematik zu durchblicken fehlt mir leider das nötige Know-How. Trotzdem hoffe ich, dass ich Dir ein paar Infos weitergeben und zum Nachdenken anregen konnte.<br />
+Diese Seite stellt keinerlei Ansprüche an Vollständigkeit und Korrektheit. Auch wenn ich mich bemüht habe, überall die Quellen korrekt anzugeben, stellt der Großteil meine persönliche Meinung dar und kann daher nicht als in den Stein gemeißelte Wahrheit angenommen werden. Um die Gesamtheit der Thematik zu durchblicken, fehlt mir leider das nötige Know-How. Trotzdem hoffe ich, dass ich Dir ein paar nützliche und interessante Infos weitergeben und dich zum Nachdenken anregen konnte.<br />
 
 Zurück nach [:arrow_up:](#Gliederung).
