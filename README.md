@@ -16,10 +16,6 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 * [Weiteres zum Thema](#Weiteres-zum-Thema)
 * [Quellen](#Quellen)
 
-
-
-
-
 ---
 
 ## Meine Gründe
