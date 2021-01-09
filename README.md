@@ -73,7 +73,7 @@ _"Ich habe doch eh nicht's zu verbergern."_<br />
 
 oder<br />
 
-_"Jetzt ist doch eh schon zu spät."_<br />
+_"Jetzt ist es doch eh schon zu spät."_<br />
 
 Dann möchte ich Dir gerne folgenden Podcast ans Herz legen: [LegalBits Folge 16](https://www.stiegler-legal.com/blog/blog-podcast_folge_16 'LegalBits 16').<br />
 Hier wird mit diesen vermeintlichen Argumenten gegen den Datenschutz aufgeräumt und verdeutlicht, warum es so wichtig ist, dass wir auf unsere Daten achten.<br />
