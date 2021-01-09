@@ -10,8 +10,8 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 ---
 ## Gliederung
 * [Meine Gründe](#Meine-Gründe)
-* [Alternativen](#Alternativen)
 * [Sind meine Daten überhaupt so wichtig?](#Sind-meine-Daten-überhaupt-so-wichtig)
+* [Alternativen](#Alternativen)
 * [Nachrichten an meine Kontakte](#Nachrichten-an-meine-Kontakte)
 * [Weiteres zum Thema](#Weiteres-zum-Thema)
 * [Quellen](#Quellen)
@@ -25,7 +25,7 @@ Seit der **Übernahme von WhatsApp (WA) durch Facebook (FB)** im Jahr 2014 besch
 Nun ist es offiziell:<br />
 Am 07.01.2021 teilte WA seinen Nutzern mit, dass es seine Datenschutzrichtlinien dahingehend geändert wurden, dass Information, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
-Im Folgenden führe ich **drei Gründe** an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
+Im Folgenden führe ich **vier Gründe** an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
 
 * **WA holt sich Infos über mein Gerät**<br />
 
@@ -36,16 +36,50 @@ Aus WA's Datenschutzerklärung [4]:<br />
 * **WA will wissen, wo ich bin, auch auch wenn ich es ihnen nicht sagen möchte**<br />
 
 Aus WA's Datenschutzerklärung [4]:<br />
->Mit deiner Zustimmung erheben und nutzen wir _genaue Standortinformationen_ von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. _Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt_, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
+>Mit deiner Zustimmung erheben und nutzen wir **genaue Standortinformationen** von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. **Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt**, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
 >
 
 * **WA schnüffelt in meinem Adressbuch rum**<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
->Kaum etwas verrät mehr über einen Menschen, als mit wem er Kontakt hat. Aus den Telefonbüchern mehrerer WhatsApp-Nutzerinnen und -Nutzer könnte man problemlos *detaillierte Netzwerke erstellen*. Nichts anderes tun Geheimdienste, wenn sie eine Zielperson ausspionieren.
+>Kaum etwas verrät mehr über einen Menschen, als mit wem er Kontakt hat. Aus den Telefonbüchern mehrerer WhatsApp-Nutzerinnen und -Nutzer könnte man problemlos **detaillierte Netzwerke erstellen**. Nichts anderes tun Geheimdienste, wenn sie eine Zielperson ausspionieren.
 Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kontakte ebenfalls WhatsApp nutzen. Das ist praktisch, lässt sich technisch aber auch anders lösen.
 >
 -> Geht das auch anders? Schau mal [hier](#Signal)!
+
+* **WA trackt meine Nutzung immer und überall**
+
+Auch wenn WA dank End-zu-Ende-Verschlüsselung vielleict nicht weis _WAS_ ich mit euch schreibe, so weis WA aber genau _DAS_ ich mit euch schreibe.<br />
+
+Aus WA's Datenschutzerklärung [4]:<br />
+>Wir erheben Informationen über deine Aktivität auf unseren Diensten. [...] Dies umfasst auch **Informationen über deine Aktivität** (beispielsweise wie du unsere Dienste nutzt, deine Einstellungen für Dienste, wie du mit anderen unter Nutzung unserer Dienste interagierst (z. B. wenn du mit einem Unternehmen interagierst) sowie **Zeitpunkt, Häufigkeit und Dauer deiner Aktivitäten und Interaktionen**), [...] Dies umfasst auch Informationen darüber, wann du dich für die Nutzung unserer Dienste registriert hast, Informationen über die von dir genutzten Funktionen wie unsere Nachrichten-, Anruf-, Status-, Gruppen- (darunter Gruppenname, Gruppenbild, Gruppenbeschreibung), Zahlungs- oder Geschäftsfunktionen, über dein Profilbild, über deine **Info, dazu, ob du gerade online bist, wann du zuletzt unsere Dienste genutzt hast (dein „Zuletzt online“) und wann du zuletzt deine Info aktualisiert hast**. 
+><br />
+
+Schau dir bitte den nächten [Abschnitt](#Sind-meine-Daten-überhaupt-so-wichtig) an, um zu erfahren, was man durch *clevere* Verarbeitung deiner Metadaten über Dich erfahren kann.<br />
+Mit der geänderten Datenschutzerklärung von WA ist es nun kla, dass auch FB all diese Daten über mich hat, auch wenn ich mittlerweile gar keinen FB-Account mehr habe!<br />
+
+Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
+
+## Sind meine Daten überhaupt so wichtig?
+
+Ja das sind sie!!1!!11!<br />
+<br />
+Denkst Du vielleicht:<br />
+
+_"Ich habe doch eh nicht's zu verbergern."_<br />
+
+oder<br />
+
+_"Jetzt ist doch eh schon zu spät."_<br />
+
+Dann möchste ich dir gerne folgenden Podcast an Herz legen: [LegalBits Folge 16](https://www.stiegler-legal.com/blog/blog-podcast_folge_16 'LegalBits 16').<br />
+Hier wird mit diesen vermeintlichen Argumenten gegen den Datenschutz aufgeräumt und verdeutlicht, warum es so wichtig ist, auf seine Daten zu achten.<br />
+
+Was man allein aus Meta
+
+
+
+Podcast einfügen!
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
@@ -110,14 +144,6 @@ Aus den genannten Gründen möchten wir dich fragen, ob du bereit wärst, dir ei
 
 Wir freuen uns auf dein Feedback und würden uns sehr freuen, wenn du mit uns "umziehen" würdest!
 ```
-
-Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
-
-## Sind meine Daten überhaupt so wichtig?
-
-Jaaa!!!11!
-
-Podcast einfügen!
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
