@@ -12,7 +12,6 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 * [Meine Gründe](#Meine-Gründe)
 * [Sind meine Daten überhaupt so wichtig?](#Sind-meine-Daten-überhaupt-so-wichtig)
 * [Alternativen](#Alternativen)
-* [Nachrichten an meine Kontakte](#Nachrichten-an-meine-Kontakte)
 * [Weiteres zum Thema](#Weiteres-zum-Thema)
 * [Quellen](#Quellen)
 * [Disclaimer](#Disclaimer)
