@@ -53,14 +53,14 @@ Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kont
 
 **4. WA trackt meine Nutzung immer und überall**
 
-Auch wenn WA Dank End-zu-Ende-Verschlüsselung vielleict nicht weis _WAS_ ich mit euch schreibe, so weis WA aber genau _DAS_ ich mit euch schreibe!<br />
+Auch wenn WA dank End-zu-Ende-Verschlüsselung vielleicht nicht weiß, _WAS_ ich mit euch schreibe, so weiß WA aber genau, _DASS_ ich mit euch schreibe!<br />
 
 Aus WA's Datenschutzerklärung [4]:<br />
 
 >Wir erheben Informationen über deine Aktivität auf unseren Diensten. [...] Dies umfasst auch **Informationen über deine Aktivität** (beispielsweise wie du unsere Dienste nutzt, deine Einstellungen für Dienste, wie du mit anderen unter Nutzung unserer Dienste interagierst (z. B. wenn du mit einem Unternehmen interagierst) sowie **Zeitpunkt, Häufigkeit und Dauer deiner Aktivitäten und Interaktionen**), [...] Dies umfasst auch Informationen darüber, wann du dich für die Nutzung unserer Dienste registriert hast, Informationen über die von dir genutzten Funktionen wie unsere Nachrichten-, Anruf-, Status-, Gruppen- (darunter Gruppenname, Gruppenbild, Gruppenbeschreibung), Zahlungs- oder Geschäftsfunktionen, über dein Profilbild, über deine **Info, dazu, ob du gerade online bist, wann du zuletzt unsere Dienste genutzt hast (dein „Zuletzt online“) und wann du zuletzt deine Info aktualisiert hast**. 
 ><br />
 
-Schau dir bitte noch den nächsten [Abschnitt](#Sind-meine-Daten-überhaupt-so-wichtig) an, um zu erfahren, was man durch *clevere* Verarbeitung deiner Meta-Daten über Dich erfahren kann. Mit der geänderten Datenschutzerklärung von WA ist es nun kla, dass auch FB all diese Daten über mich hat, auch wenn ich mittlerweile gar keinen FB-Account mehr habe!<br />
+Schau dir bitte noch den nächsten [Abschnitt](#Sind-meine-Daten-überhaupt-so-wichtig) an, um zu erfahren, was man durch *clevere* Verarbeitung deiner Meta-Daten über Dich erfahren kann. Mit der geänderten Datenschutzerklärung von WA ist es nun klar, dass auch FB alle diese Daten über mich hat und weiterhin sammeln würde, auch wenn ich mittlerweile gar keinen FB-Account mehr habe!<br />
 
 Zurück nach [:arrow_up:](#Gliederung).
 
@@ -82,7 +82,7 @@ Hier wird mit diesen vermeintlichen Argumenten gegen den Datenschutz aufgeräumt
 Welche Informationen über einen Menschen man allein aus der Verarbeitung seiner Meta-Daten gewinnen kann, hat David Kriesel auf dem 33c3 mit seinem Vortrag *SpiegelMining – Reverse Engineering von Spiegel-Online* ziemlich eindrucksvoll vorgeführt.<br />
 [Hier](https://www.youtube.com/watch?v=-YpwsdRKt8Q 'SpiegelMining') sagt David ab ca. Minute 16:47 Folgendes:<br />
 
->[...] Wir haben noch nicht einmal die Daten selbst betrachtet, wir haben die Artikel selbst ja gar nicht angefasst. Was wir angefasst haben sind nur Meta-Daten: Zeiten und Autoren, genau wie bei der Vorratsdatenspeicherung. Das sind ja auch nur Meta-Daten. Gebt mir mal ein paar Monate eurer Meta-Daten. Einfach nur **wem ihr wann Mails und WhatsApps** geschickt habt und **wann ihr auf welchen Webseiten** ward, **keine Inhalte**. Danach kann ich euch sagen, wer eure **besten Freunde** sind, ob ihr eine **Affäre** habt, wie ihr **sexuell orientiert** seid, ob ihr **schwanger** seid, ob ihr eine **Krankheit** habt, was eure **politische Einstellung** ist, wie euer **Glaube** ausgerichtet ist und ob ihr **finanzielle Probleme** habt und alles was ich gerade vergessen habe. [...]
+>[...] Wir haben noch nicht einmal die Daten selbst betrachtet, wir haben die Artikel selbst ja gar nicht angefasst. Was wir angefasst haben, sind nur Meta-Daten: Zeiten und Autoren, genau wie bei der Vorratsdatenspeicherung. Das sind ja auch nur Meta-Daten. Gebt mir mal ein paar Monate eurer Meta-Daten. Einfach nur, **wem ihr wann Mails und WhatsApps** geschickt habt und **wann ihr auf welchen Webseiten** wart, **keine Inhalte**. Danach kann ich euch sagen, wer eure **besten Freunde** sind, ob ihr eine **Affäre** habt, wie ihr **sexuell orientiert** seid, ob ihr **schwanger** seid, ob ihr eine **Krankheit** habt, was eure **politische Einstellung** ist, wie euer **Glaube** ausgerichtet ist und ob ihr **finanzielle Probleme** habt und alles, was ich gerade vergessen habe. [...]
 >
 
 Und dies alles nur aus Meta-Daten, also ohne Inhalte...<br />
@@ -104,14 +104,15 @@ Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
->Der Messenger Signal hat zum Beispiel _keinen Einblick in dein Telefonbuch_. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also nur die Hashes, nicht die echten Nummern. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App.
+>Der Messenger Signal hat zum Beispiel **keinen Einblick in dein Telefonbuch**. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also **nur die Hashes, nicht die echten Nummern**. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App.
 >
 
 ### Threema
 
-**+** Zwar nicht open-source, aber dennoch von Experten als Sicher bewertet<br />
+**+** Zwar nicht open-source, aber dennoch von Experten als sicher bewertet<br />
 **+** Zwar keine Desktop-App für den PC verfügbar, aber mit ThreemaWeb auch problemlos am PC nutzbar<br />
-**0** Nicht kostenlos (zur Zeit einmalig 3,99€), aber das ist mir sichere Kommunikation mit euch auf jeden Fall wert!<br />
+**-** Nicht kostenlos (zur Zeit einmalig 3,99€), aber das ist mir die sichere Kommunikation mit Dir auf jeden Fall wert!<br />
+**-** Auf den erst Blick ein verwirrendes Ampelsystem zur Nutzervalidierung<br />
 
 ### Telegram
 
@@ -128,14 +129,14 @@ Zurück nach [:arrow_up:](#Gliederung).
 
 **WOW, Du hast Dich echt bist hier unten durchgeareitet?!?! :flushed::flushed::flushed:**<br />
 
-Falls Du dich noch ein bisschen mehr mit dem Thema beschäftigen möchtest, habe ich hier noch drei Bücher für Dich, die dir mit Sicherheit Freude ereiten werden.<br />
+Falls Du dich noch ein bisschen mehr mit dem Thema beschäftigen möchtest, habe ich hier noch drei Bücher für Dich, die dir mit Sicherheit Freude bereiten werden.<br />
 
-* Über den Einfluss von *GAFAM* (Google, Amazon, Facebook, Apple, Microsoft): <br />
+* Über den Einfluss von **GAFAM** (Google, Amazon, Facebook, Apple, Microsoft): <br />
   * Paul Nemitz u. Matthias Pfeffer: *Prinzip Mensch, Macht, Freiheit und Demokratie im Zeitalter der Künstlichen Intelligenz* <br />
   * siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/ 'Homepage Prinzip Mensch') <br />
-* Über den Einfluss von *Social Media*: <br />
+* Über den Einfluss von **Social Media**: <br />
   * Jaron Lanier: *Zehn Gründe, warum du deine Social Media Accounts sofort löschen musst* <br />
-* Über die Bedeutung von *Meta-Daten*:<br />
+* Über die Bedeutung von **Meta-Daten**:<br />
   * Edward Snowden: *Permanent Record*<br />
 
 Ich freue mich natürlich auch über **Feedback** und würde mich sehr freuen, mit Dir **über das Thema zu diskutieren**.<br />
