@@ -15,7 +15,7 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 * [Nachrichten an meine Kontakte](#Nachrichten-an-meine-Kontakte)
 * [Weiteres zum Thema](#Weiteres-zum-Thema)
 * [Quellen](#Quellen)
-
+* [Disclaimer](#Disclaimer)
 ---
 
 ## Meine Gründe
@@ -92,13 +92,14 @@ Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 ## Alternativen
 
 Es gibt eine Vielzahl an Alternativen zu WA.
-Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html 'Heise: Alternativen zu WA') einen sehr guten Überblick.
+Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html 'Heise: Alternativen zu WA') einen sehr guten Überblick. Die nachfolgende Auflistung ist lediglich eine Auswahl. Über diese drei Messenger kannst Du mich weiterhin erreichen.<br />
 
 ### Signal
 
 **+** kostenlos <br />
 **+** open-source<br />
 **+** durch Experten bestätigte Sicherheit<br />
+**+** Desktop-App für den PC verfügbar
 **-** meiner Meinung nach, optisch nicht ganz so sexy wie andere Messenger<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
@@ -107,9 +108,19 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 >
 
 ### Threema
-**+** zwar nicht open-source, aber dennoch von Experten als Sicher bewertet
+
+**+** Zwar nicht open-source, aber dennoch von Experten als Sicher bewertet<br />
+**+** Zwar keine Desktop-App für den PC verfügbar, aber mit ThreemaWeb auch problemlos am PC nutzbar<br />
+**0** Nicht kostenlos (zur Zeit einmalig 3,99€), aber das ist mir sichere Kommunikation mit euch auf jeden Fall wert!<br />
 
 ### Telegram
+
+**+** Look-and-Feel sehr ähnlich zu WA<br />
+**+** abonnierbare News-Channels<br />
+**+** Desktop-App für den PC verfügbar
+**-** *geheime* Chats möglich, aber Einstellung umständlich <br />
+
+-> Zur Sicherheit von Telegram empfehle ich den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram')
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
@@ -119,7 +130,7 @@ Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 
 Falls Du dich noch ein bisschen mehr mit dem Thema beschäftigen möchtest, habe ich hier noch drei Bücher für Dich, die dir mit Sicherheit Freude ereiten werden.<br />
 
-* Über den Einfluss von *GAFAM* (Google, Amazon, Facebook, Microsoft): <br />
+* Über den Einfluss von *GAFAM* (Google, Amazon, Facebook, Apple, Microsoft): <br />
   * Paul Nemitz u. Matthias Pfeffer: *Prinzip Mensch, Macht, Freiheit und Demokratie im Zeitalter der Künstlichen Intelligenz* <br />
   * siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/ 'Homepage Prinzip Mensch') <br />
 * Über den Einfluss von *Social Media*: <br />
@@ -138,5 +149,11 @@ Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
 [3] https://www.whatsapp.com/legal/updates/terms-of-service-eea <br />
 [4]	https://www.whatsapp.com/legal/updates/privacy-policy-eea <br />
 [5] https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html?seite=all <br />
+
+Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
+
+## Disclaimer
+
+Diese Seite stellt keinerlei Ansprüche an Vollständigkeit und korrektheit. Auch wenn ich mich bemüht habe, überall die Quellen korrekt anzugeben, stellt der Großteil meine persönliche Meinung dar und kann daher nicht als in den Stein gemeißelte Wahrheit angenommen werden. Um die Gesamtheit der Thematik zu durchblicken fehlt mir leider das nötige Know-How. Trotzdem hoffe ich, dass ich Dir ein paar Infos weitergeben und zum Nachdenken anregen konnte.<br />
 
 Zurück nach [:arrow_up:](#Das-Ende-von-WhatsApp-für-mich).
