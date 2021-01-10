@@ -53,7 +53,7 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kontakte ebenfalls WhatsApp nutzen. Das ist praktisch, lässt sich technisch aber auch anders lösen.
 ><br />
 
--> Geht das auch anders? Gott sei Dank, ja! Schau mal [hier](#Signal)!
+:arrow_right: Geht das auch anders? Gott sei Dank, ja! Schau mal [hier](#Signal)!
 
 **4. WA trackt meine Nutzung immer und überall**
 
@@ -125,7 +125,7 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 **+** Desktop-App für den PC verfügbar<br />
 **-** *geheime* Chats möglich, aber Einstellung umständlich<br />
 **-** die Sicherheit der Chats steht in der Kritik<br />
--> Zur Sicherheit von Telegram empfehle ich den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram')
+:arrow_right: Zur Sicherheit von Telegram empfehle ich den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram')
 
 Zurück nach [:arrow_up:](#Gliederung).
 
