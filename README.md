@@ -20,11 +20,13 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 ## Meine Gründe
 
 Seit der **Übernahme von WhatsApp (WA) durch Facebook (FB)** im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal einen FB-Account hatte.<br />
+
 <p align="center">
   <img src="/Images/MeldungWA.jpg"><br />
 </p>
+
 Nun ist es offiziell:<br />
-Am 07.01.2021 teilte WA seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass Informationen, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
+Seit dem 07.01.2021 teilt WA seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass Informationen, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
 Im Folgenden führe ich **vier Gründe** an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
 
