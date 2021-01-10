@@ -22,7 +22,7 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 Seit der **Übernahme von WhatsApp (WA) durch Facebook (FB)** im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten wahrscheinlich auch bei FB landen werden und das, obwohl ich zu diesem Zeitpunkt nicht einmal einen FB-Account hatte.<br />
 
 <p align="center">
-  <img src="/Images/MeldungWA.png"><br />
+  <img src="/Images/MeldungWA.PNG"><br />
 </p>
 
 Nun ist es offiziell:<br />
