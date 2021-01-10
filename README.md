@@ -26,6 +26,7 @@ Seit der **Übernahme von WhatsApp (WA) durch Facebook (FB)** im Jahr 2014 besch
 </p>
 
 Nun ist es offiziell:<br />
+
 Seit dem 07.01.2021 teilt WA seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass Informationen, welche aus der App gewonnen werden, zukünftig auch mit anderen Unternehmen wie beispielsweise FB geteilt werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
 Im Folgenden führe ich **vier Gründe** an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
