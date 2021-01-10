@@ -66,7 +66,7 @@ Aus WA's Datenschutzerklärung [4]:<br />
 
 Schau dir bitte noch den nächsten [Abschnitt](#Sind-meine-Daten-überhaupt-so-wichtig) an, um zu erfahren, was man durch *clevere* Verarbeitung deiner Meta-Daten über Dich erfahren kann. Mit der geänderten Datenschutzerklärung von WA ist es nun klar, dass auch FB alle diese Daten über mich hat und weiterhin sammeln würde, auch wenn ich mittlerweile gar keinen FB-Account mehr habe!<br />
 
-Zurück nach [:arrow_up:](#Gliederung).
+Back to the [:top:](#Gliederung).
 
 ## Sind meine Daten überhaupt so wichtig?
 
@@ -91,7 +91,7 @@ Welche Informationen über einen Menschen man allein aus der Verarbeitung seiner
 
 Und dies alles nur aus Meta-Daten, also ohne Inhalte...<br />
 
-Zurück nach [:arrow_up:](#Gliederung).
+Back to the [:top:](#Gliederung).
 
 ## Alternativen
 
@@ -100,11 +100,11 @@ Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer
 
 ### Signal
 
-**+** kostenlos <br />
-**+** open-source<br />
-**+** durch Experten bestätigte Sicherheit<br />
-**+** Desktop-App für den PC verfügbar<br />
-**-** meiner Meinung nach, optisch nicht ganz so sexy wie andere Messenger<br />
+:heavy_plus_sign: kostenlos <br />
+:heavy_plus_sign: open-source<br />
+:heavy_plus_sign: durch Experten bestätigte Sicherheit<br />
+:heavy_plus_sign: Desktop-App für den PC verfügbar<br />
+:heavy_minus_sign: meiner Meinung nach, optisch nicht ganz so sexy wie andere Messenger<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
@@ -113,21 +113,21 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
 ### Threema
 
-**+** Zwar nicht open-source, aber dennoch von Experten als sicher bewertet<br />
-**+** Zwar keine Desktop-App für den PC verfügbar, aber mit ThreemaWeb auch problemlos am PC nutzbar<br />
-**-** Nicht kostenlos (zur Zeit einmalig 3,99€), aber das ist mir die sichere Kommunikation mit Dir auf jeden Fall wert!<br />
-**-** Auf den erst Blick verwirrendes Ampelsystem zur Nutzervalidierung<br />
+:heavy_plus_sign: Zwar nicht open-source, aber dennoch von Experten als sicher bewertet<br />
+:heavy_plus_sign: Zwar keine Desktop-App für den PC verfügbar, aber mit ThreemaWeb auch problemlos am PC nutzbar<br />
+:heavy_minus_sign: Nicht kostenlos (zur Zeit einmalig 3,99€), aber das ist mir die sichere Kommunikation mit Dir auf jeden Fall wert!<br />
+:heavy_minus_sign: Auf den erst Blick verwirrendes Ampelsystem zur Nutzervalidierung<br />
 
 ### Telegram
 
-**+** Look-and-Feel sehr ähnlich zu WA<br />
-**+** abonnierbare News-Channels<br />
-**+** Desktop-App für den PC verfügbar<br />
-**-** *geheime* Chats möglich, aber Einstellung umständlich<br />
-**-** die Sicherheit der Chats steht in der Kritik<br />
+:heavy_plus_sign: Look-and-Feel sehr ähnlich zu WA<br />
+:heavy_plus_sign: abonnierbare News-Channels<br />
+:heavy_plus_sign: Desktop-App für den PC verfügbar<br />
+:heavy_minus_sign: *geheime* Chats möglich, aber Einstellung umständlich<br />
+:heavy_minus_sign: die Sicherheit der Chats steht in der Kritik<br />
 :arrow_right: Zur Sicherheit von Telegram empfehle ich den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram')
 
-Zurück nach [:arrow_up:](#Gliederung).
+Back to the [:top:](#Gliederung).
 
 ## Weiteres zum Thema
 
@@ -146,7 +146,7 @@ Falls Du dich noch ein bisschen mehr mit dem Thema beschäftigen möchtest, habe
 Ich freue mich natürlich auch über **Feedback** und würde mich sehr freuen, mit Dir **über das Thema zu diskutieren**.<br />
 **Aber**: Bitte nicht auf WA... :wink:<br />
 
-Zurück nach [:arrow_up:](#Gliederung).
+Back to the [:top:](#Gliederung).
 
 ## Quellen
 [1] https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html <br />
@@ -155,10 +155,10 @@ Zurück nach [:arrow_up:](#Gliederung).
 [4]	https://www.whatsapp.com/legal/updates/privacy-policy-eea <br />
 [5] https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html?seite=all <br />
 
-Zurück nach [:arrow_up:](#Gliederung).
+Back to the [:top:](#Gliederung).
 
 ## Disclaimer
 
 Diese Seite stellt keinerlei Ansprüche an Vollständigkeit und Korrektheit. Auch wenn ich mich bemüht habe, überall die Quellen korrekt anzugeben, stellt der Großteil meine persönliche Meinung dar und kann daher nicht als in den Stein gemeißelte Wahrheit angenommen werden. Um die Gesamtheit der Thematik zu durchblicken, fehlt mir leider das nötige Know-How. Trotzdem hoffe ich, dass ich Dir ein paar nützliche und interessante Infos weitergeben und dich zum Nachdenken anregen konnte.<br />
 
-Zurück nach [:arrow_up:](#Gliederung).
+Back to the [:top:](#Gliederung).
