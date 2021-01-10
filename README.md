@@ -1,4 +1,5 @@
 # Das Ende von WhatsApp für mich
+###### Von Björn Wanja<br />
 <p align="center">
   <img src="/Images/WAWegwerfen.png"><br />
   (Abbildung entnommen aus: [2])
@@ -125,7 +126,7 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 :heavy_plus_sign: Desktop-App für den PC verfügbar<br />
 :heavy_minus_sign: *geheime* Chats möglich, aber Einstellung umständlich<br />
 :heavy_minus_sign: die Sicherheit der Chats steht in der Kritik<br />
-:arrow_right: Zur Sicherheit von Telegram empfehle ich den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram')
+:arrow_right: Zur Sicherheit von Telegram empfehle ich Dir den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram').
 
 Back to the [:top:](#Gliederung).
 
