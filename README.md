@@ -20,7 +20,7 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 ## Meine Gründe
 
-Seit dem 07.01.2021 teilt WhatsApp (WA) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen Facebook (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. Heise liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
+Seit dem 07.01.2021 teilt WhatsApp (WA) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen Facebook (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. *Heise* liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
 <p align="center">
   <img src="/Images/MeldungWA.PNG"><br />
@@ -63,7 +63,7 @@ Aus WA's Datenschutzerklärung [4]:<br />
 >Wir erheben Informationen über deine Aktivität auf unseren Diensten. [...] Dies umfasst auch **Informationen über deine Aktivität** (beispielsweise wie du unsere Dienste nutzt, deine Einstellungen für Dienste, wie du mit anderen unter Nutzung unserer Dienste interagierst (z. B. wenn du mit einem Unternehmen interagierst) sowie **Zeitpunkt, Häufigkeit und Dauer deiner Aktivitäten und Interaktionen**), [...] Dies umfasst auch Informationen darüber, wann du dich für die Nutzung unserer Dienste registriert hast, Informationen über die von dir genutzten Funktionen wie unsere Nachrichten-, Anruf-, Status-, Gruppen- (darunter Gruppenname, Gruppenbild, Gruppenbeschreibung), Zahlungs- oder Geschäftsfunktionen, über dein Profilbild, über deine **Info, dazu, ob du gerade online bist, wann du zuletzt unsere Dienste genutzt hast (dein „Zuletzt online“) und wann du zuletzt deine Info aktualisiert hast**. 
 ><br />
 
-Schau dir bitte noch den nächsten [Abschnitt](#Sind-meine-Daten-überhaupt-so-wichtig) an, um zu erfahren, was man durch *clevere* Verarbeitung deiner Meta-Daten über Dich erfahren kann. Mit der geänderten Datenschutzerklärung von WA ist es nun klar, dass auch FB alle diese Daten über mich hat und weiterhin sammeln würde, auch wenn ich mittlerweile gar keinen FB-Account mehr habe!<br />
+Schau dir bitte noch den nächsten [Abschnitt](#Sind-meine-Daten-überhaupt-so-wichtig) an, um zu erfahren, warum mir das ganze Thema so wichtig ist und was man durch *clevere* Verarbeitung deiner Meta-Daten über Dich erfahren kann.<br />
 
 Back to the [:top:](#Gliederung).
 
@@ -95,7 +95,7 @@ Back to the [:top:](#Gliederung).
 ## Alternativen
 
 Es gibt eine Vielzahl an Alternativen zu WA.
-Heise gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html 'Heise: Alternativen zu WA') einen sehr guten Überblick. Die nachfolgende Auflistung ist lediglich eine Auswahl. Über diese drei Messenger kannst Du mich weiterhin erreichen.<br />
+** gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html 'Heise: Alternativen zu WA') einen sehr guten Überblick. Die nachfolgende Auflistung ist lediglich eine Auswahl. Über diese drei Messenger kannst Du mich weiterhin erreichen.<br />
 
 ### Signal
 
