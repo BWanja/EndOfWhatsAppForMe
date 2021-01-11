@@ -26,7 +26,7 @@ Seit dem 07.01.2021 teilt WhatsApp (WA) seinen Nutzern mit, dass seine Datenschu
   <img src="/Images/MeldungWA.PNG"><br />
 </p>
 
-Seit der **Übernahme von WA durch FB** im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten auch bei FB direkt landen könnten und das, obwohl ich gar keinen FB-Account mehr habe.<br />
+Seit der **Übernahme von WA durch FB** im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten auch bei FB direkt landen könnten und das, obwohl ich gar keinen FB-Account mehr habe. Auch wenn die **Daten von EU-Bürgern wohl nicht betroffen** sein sollen (siehe dazu folgenden [Artikel](https://www.pcwelt.de/news/WhatsApp-verwirrt-Nutzer-mit-neuen-Nutzungsbedingungen-10954208.html 'PC-Welt: WA verwirrt Nutzer') von *PC-Welt*) und sich demnach für uns hier in Europa erst einmal nichts ändern soll, bleibt dennoch für mich ein negativer Beigeschmack.<br />
 
 Im Folgenden führe ich **vier Gründe** an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
 
@@ -158,6 +158,7 @@ Back to the [:top:](#Gliederung).
 [4]	https://www.whatsapp.com/legal/updates/privacy-policy-eea <br />
 [5] https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html?seite=all <br />
 [6] https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html <br />
+[7] https://www.pcwelt.de/news/WhatsApp-verwirrt-Nutzer-mit-neuen-Nutzungsbedingungen-10954208.html <br />
 
 Back to the [:top:](#Gliederung).
 
