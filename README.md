@@ -56,7 +56,7 @@ Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kont
 
 **4. WA trackt meine Nutzung immer und überall**
 
-Auch wenn WA dank End-zu-Ende-Verschlüsselung vielleicht nicht weiß, _WAS_ ich mit euch schreibe, so weiß WA aber genau, _DASS_ ich mit euch schreibe!<br />
+Auch wenn WA dank End-zu-Ende-Verschlüsselung vielleicht nicht weiß, _WAS_ ich mit euch schreibe, so weiß WA aber dennoch genau, _DASS_ ich mit euch schreibe!<br />
 
 Aus WA's Datenschutzerklärung [4]:<br />
 
