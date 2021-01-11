@@ -126,7 +126,11 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 :heavy_plus_sign: Desktop-App für den PC verfügbar<br />
 :heavy_minus_sign: *geheime* Chats möglich, aber Einstellung umständlich<br />
 :heavy_minus_sign: die Sicherheit der Chats steht in der Kritik<br />
-:arrow_right: Zur Sicherheit von Telegram empfehle ich Dir den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram').
+:arrow_right: Zur Sicherheit von Telegram empfehle ich Dir den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram').<br />
+
+In diesem Artikel ist Folgendes über Telegram zu lesen (aus [6]):
+>Wer Telegram nutzt, sollte sich hingegen im Klaren sein, dass er sich einem **undurchsichtigen und sehr dubiosen Firmen-Konstrukt** ausliefert, über dessen Motive so gut wie nichts bekannt ist. Man kann das durchaus tun, etwa, weil es **praktisch, schick und angesagt** ist. Aber **mit Sicherheit und Datenschutz sollte man dabei nicht argumentieren**. Denn in dieser Hinsicht ist Telegram eine glatte Katastrophe.
+>
 
 Back to the [:top:](#Gliederung).
 
@@ -155,6 +159,7 @@ Back to the [:top:](#Gliederung).
 [3] https://www.whatsapp.com/legal/updates/terms-of-service-eea <br />
 [4]	https://www.whatsapp.com/legal/updates/privacy-policy-eea <br />
 [5] https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html?seite=all <br />
+[6] https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html <br />
 
 Back to the [:top:](#Gliederung).
 
