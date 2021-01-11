@@ -20,7 +20,7 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 ## Meine Gründe
 
-Seit dem 07.01.2021 teilt WhatsApp (WA) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen Facebook (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. *Heise* liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
+Seit dem 07.01.2021 teilt WhatsApp (WA) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen Facebook (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab dem 8. Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. *Heise* liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
 <p align="center">
   <img src="/Images/MeldungWA.PNG"><br />
