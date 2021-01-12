@@ -103,7 +103,8 @@ Es gibt eine Vielzahl an Alternativen zu WA.
 :heavy_plus_sign: open-source<br />
 :heavy_plus_sign: durch Experten bestätigte Sicherheit<br />
 :heavy_plus_sign: Desktop-App für den PC verfügbar<br />
-:heavy_minus_sign: meiner Meinung nach, optisch nicht ganz so sexy wie andere Messenger<br />
+(:heavy_minus_sign:) meiner Meinung nach, optisch nicht ganz so sexy wie andere Messenger<br />
+:arrow_right: Dieser Negativpunkt wird wohl schon bald obsolet sein, da Signal neue Funktionen angekündigt hat, siehe [hier](https://www.pctipp.ch/news/apps/signal-kuendigt-neue-funktionen-an-2621359.html 'Heise: Signal neue Funktionen').<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
