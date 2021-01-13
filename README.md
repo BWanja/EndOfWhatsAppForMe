@@ -101,7 +101,7 @@ Back to the [:top:](#Gliederung).
 
 (von Sebastian Gau)
 
-"... da muss der Gesetzgeber einspringen, am besten auf EU-Ebene. Außerdem ist unser EU-Datenschutzgesetz ja schon super, da muss sich WhatsApp/Facebook dran halten" Da sage ich: Ja, müsste er, und ja, ist es, zumindest im Vergleich zum Amerikanischen oder Chinesischen Pendant die haarsträubender kaum sein könnten. Und ja, Facebook müsste sich auch an das EU-Datenschutzgesetz halten. Seit dem Skandal um Cambridge Analytica ist mir jedoch klar, dass Facebook nicht immer verantwortungsvoll mit personenbezogenen Daten umgeht. Das einzige Mittel, das zu 100% wirksam gegen die Datenkraken hilft sind konsequente Endscheidungen durch die Endnutzer. Wer unsere Daten nicht bekommt, der kann sie auch nicht missbrauchen.
+"... da muss der Gesetzgeber einspringen, am besten auf EU-Ebene. Außerdem ist unser EU-Datenschutzgesetz ja schon super, da muss sich WhatsApp/Facebook dran halten" Da sage ich: Ja, müsste er, und ja, ist es, zumindest im Vergleich zum Amerikanischen oder Chinesischen Pendant die haarsträubender kaum sein könnten. Und ja, Facebook müsste sich auch an das EU-Datenschutzgesetz halten. Seit dem Skandal um Cambridge Analytica ist mir jedoch klar, dass Facebook nicht immer verantwortungsvoll mit personenbezogenen Daten umgeht, und daher selbst konsumentenfreundliche Datenschutzgesetze nicht immer wirksam sind. Außerdem ist es als Endnutzer sehr schwer zu kontrollieren, was denn wirklich mit den Daten passiert. Das einzige Mittel, das zu 100% wirksam gegen die Datenkraken hilft sind konsequente Endscheidungen durch die Endnutzer. Wer unsere Daten nicht bekommt, der kann sie auch nicht missbrauchen.
 
 ## Alternativen
 
