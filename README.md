@@ -95,7 +95,7 @@ Back to the [:top:](#Gliederung).
 ## Alternativen
 
 Es gibt eine Vielzahl an Alternativen zu WA.
-** gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html 'Heise: Alternativen zu WA') einen sehr guten Überblick. Die nachfolgende Auflistung ist lediglich eine Auswahl. Über diese drei Messenger kannst Du mich weiterhin erreichen.<br />
+*Heise* gibt unter folgendem [Link](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html 'Heise: Alternativen zu WA') einen sehr guten Überblick. Die nachfolgende Auflistung ist lediglich eine Auswahl. Über diese drei Messenger kannst Du mich weiterhin erreichen.<br />
 
 ### Signal
 
