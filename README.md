@@ -10,10 +10,6 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 ---
 ## Gliederung
-- [Das Ende von WhatsApp für mich](#das-ende-von-whatsapp-für-mich)
-          - [Von Björn Wanja - Ergänzungen von Sebastian Gau<br />](#von-björn-wanja---ergänzungen-von-sebastian-gau)
-  - [Gliederung](#gliederung)
-  - [- Disclaimer](#--disclaimer)
   - [Meine Gründe](#meine-gründe)
   - [Sind meine Daten überhaupt so wichtig?](#sind-meine-daten-überhaupt-so-wichtig)
   - [Ich kann doch eh nichts gegen Konzerne wie Facebook ausrichten...](#ich-kann-doch-eh-nichts-gegen-konzerne-wie-facebook-ausrichten)
