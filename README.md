@@ -113,7 +113,8 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
 ### Threema
 
-:heavy_plus_sign: Zwar nicht open-source, aber dennoch von Experten als sicher bewertet<br />
+:heavy_plus_sign: open-source<br />
+:arrow_right: siehe hierzu folgenden [Link](https://threema.ch/de/open-source 'Threema open-source')
 :heavy_plus_sign: Zwar keine Desktop-App für den PC verfügbar, aber mit ThreemaWeb auch problemlos am PC nutzbar<br />
 :heavy_minus_sign: Nicht kostenlos (zur Zeit einmalig 3,99€), aber das ist mir die sichere Kommunikation mit Dir auf jeden Fall wert!<br />
 :heavy_minus_sign: Auf den ersten Blick verwirrendes Ampelsystem zur Nutzervalidierung<br />
