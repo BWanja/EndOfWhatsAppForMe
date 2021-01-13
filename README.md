@@ -1,21 +1,30 @@
 # Das Ende von WhatsApp für mich
-###### Von Björn Wanja<br />
+###### Von Björn Wanja - Ergänzungen von Sebastian Gau<br />
 <p align="center">
   <img src="/Images/WAWegwerfen.png"><br />
   (Abbildung entnommen aus: [2])
 </p>
 
 Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben, WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich, nachdem ich meinen WhatsApp-Account gelöscht habe, nicht tot und ich möchte auch nicht den Kontakt zu Dir oder meinen anderen Freunden und Bekannten, abbrechen!<br />
-Über *Signal*, *Threema*, *Telegram*, *E-Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
+Über (vorzugsweise) *Signal*, *Threema*, (wenn es sein muss) *Telegram*, *E-Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
 
 ---
 ## Gliederung
-* [Meine Gründe](#Meine-Gründe)
-* [Sind meine Daten überhaupt so wichtig?](#Sind-meine-Daten-überhaupt-so-wichtig)
-* [Alternativen](#Alternativen)
-* [Weiteres zum Thema](#Weiteres-zum-Thema)
-* [Quellen](#Quellen)
-* [Disclaimer](#Disclaimer)
+- [Das Ende von WhatsApp für mich](#das-ende-von-whatsapp-für-mich)
+          - [Von Björn Wanja - Ergänzungen von Sebastian Gau<br />](#von-björn-wanja---ergänzungen-von-sebastian-gau)
+  - [Gliederung](#gliederung)
+  - [- Disclaimer](#--disclaimer)
+  - [Meine Gründe](#meine-gründe)
+  - [Sind meine Daten überhaupt so wichtig?](#sind-meine-daten-überhaupt-so-wichtig)
+  - [Ich kann doch eh nichts gegen Konzerne wie Facebook ausrichten...](#ich-kann-doch-eh-nichts-gegen-konzerne-wie-facebook-ausrichten)
+  - [Alternativen](#alternativen)
+    - [Signal](#signal)
+    - [Threema](#threema)
+    - [Telegram](#telegram)
+    - [In einer perfekten Welt](#in-einer-perfekten-welt)
+  - [Weiteres zum Thema](#weiteres-zum-thema)
+  - [Quellen](#quellen)
+  - [Disclaimer](#disclaimer)
 ---
 
 ## Meine Gründe
@@ -92,6 +101,12 @@ Und dies alles nur aus Meta-Daten, also ohne Inhalte...<br />
 
 Back to the [:top:](#Gliederung).
 
+## Ich kann doch eh nichts gegen Konzerne wie Facebook ausrichten...
+
+(von Sebastian Gau)
+
+"... da muss der Gesetzgeber einspringen, am besten auf EU-Ebene. Außerdem ist unser EU-Datenschutzgesetz ja schon super, da muss sich WhatsApp/Facebook dran halten" Da sage ich: Ja, müsste er, und ja, ist es, zumindest im Vergleich zum Amerikanischen oder Chinesischen Pendant die haarsträubender kaum sein könnten. Und ja, Facebook müsste sich auch an das EU-Datenschutzgesetz halten. Seit dem Skandal um Cambridge Analytica ist mir jedoch klar, dass Facebook nicht immer verantwortungsvoll mit personenbezogenen Daten umgeht. Das einzige Mittel, das zu 100% wirksam gegen die Datenkranken hilft sind unsere Nutzerentscheidungen. Wer unsere Daten nicht bekommt, der kann sie auch nicht missbrauchen.
+
 ## Alternativen
 
 Es gibt eine Vielzahl an Alternativen zu WA.
@@ -109,7 +124,9 @@ Es gibt eine Vielzahl an Alternativen zu WA.
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
 >Der Messenger Signal hat zum Beispiel **keinen Einblick in dein Telefonbuch**. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also **nur die Hashes, nicht die echten Nummern**. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App.
->
+
+Signal ist die einzige "echte" Alternative für jemanden, der Wert auf Datenschutz legt.
+
 
 ### Threema
 
@@ -130,7 +147,17 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
 In diesem Artikel ist Folgendes über Telegram zu lesen (aus [6]):
 >Wer Telegram nutzt, sollte sich hingegen im Klaren sein, dass er sich einem **undurchsichtigen und sehr dubiosen Firmen-Konstrukt** ausliefert, über dessen Motive so gut wie nichts bekannt ist. Man kann das durchaus tun, etwa, weil es **praktisch, schick und angesagt** ist. Aber **mit Sicherheit und Datenschutz sollte man dabei nicht argumentieren**. Denn in dieser Hinsicht ist Telegram eine glatte Katastrophe.
->
+
+
+### In einer perfekten Welt
+
+(von Sebastian Gau)
+
+Allerdings sind auch diese Alternativen bei Weitem nicht perfekt. Sämtliche Dienste setzen nicht auf offene Standards. Das Resultat für uns Nutzer: Du kannst nicht providerübergreifend kommunizieren, zB mit Signal keine Nachrichten an Telegram oder Threema schicken - das erzeugt einen technisch unnötigen Lock-In sowie eine natürliche Tendenz zur Monopolisierung. Bei ausreichender Nutzerbasis besteht massiver ein wirtschaftlicher Anreiz für Konzerne mit dem nötigen Kleingeld, die Messaging-Inseln zu übernehmen und für ihre Zwecke zu instrumentalisieren, wie geschehen bei WhatsApp.
+
+Providerunabhängigkeit ist die Basis für fairen Wettbewerb, und sollte daher etwas Selbstverständliches sein. Stelle dir einmal vor, du könntest mit einem Internetanschluss der deutschen Telekom nicht mit deinem Freund kommunizieren, der einen Anschluss von Vodafone bezieht, oder mit deinem Googlemail-Account keine Emails an GMX schreiben. Das wäre sicherlich eine sehr deprimierende Welt. Die Lösung des Problems - übertragen auf Instant-Messenger - existiert bereits und lautet [XMPP](https://xmpp.org/), ein offener Standard für Instant Messaging. Durch XMPP können Chat-Client (die App, die du auf deinem Smartphone installierst) und Chat-Server (das Programm, das irgendwo im Internet für die Übertragung deiner Nachrichten und Dateien verantwortlich ist) vom Endnutzer in gewissem Umfang unabhängig gewählt werden, ebenso ist eine Nachrichtenübertragung zwischen Chat-Servern möglich (d.h. du könntest zB Threema-Nachrichten auf Signal empfangen und umgekehrt). In der Konsequenz kannst du als Endnutzer deinen Chat-Provider wie deinen EMail-Provider frei wählen, ebenso wie deine EMail-Client (zB zwischen Thunderbird und Outlook).
+
+Jetzt fragst du sicherlich: Warum nutzen wir das nicht? Naja, da sind wir wieder bei den Nutzerentscheidungen. Zu vielen Nutzern ist ihre Privatsphäre einfach völlig egal, es ist ja "nur" unbedeutende private Chatkommunikation. In der Folge hat auch XMPP als Protokoll noch kleine Schwächen in Sachen Datenschutz, zB im Bereich [Metadaten](https://www.kuketz-blog.de/conversations-messaging-ueber-das-xmpp-protokoll-messenger-teil6/), da die Entwicklung von XMPP stark von den Anforderungen der Community ist.
 
 Back to the [:top:](#Gliederung).
 
