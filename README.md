@@ -45,7 +45,7 @@ Aus WA's Datenschutzerklärung [4]:<br />
 >Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich individueller IDs für Produkte von Facebook-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
 >
 
-**2. WA will wissen, wo ich bin, auch auch wenn ich es ihnen nicht sagen möchte**<br />
+**2. WA will wissen, wo ich bin, auch wenn ich es ihnen nicht sagen möchte**<br />
 
 Aus WA's Datenschutzerklärung [4]:<br />
 
