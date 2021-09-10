@@ -128,8 +128,9 @@ Es gibt eine Vielzahl an Alternativen zu WA.
 :heavy_plus_sign: open-source<br />
 :heavy_plus_sign: durch Experten bestätigte Sicherheit<br />
 :heavy_plus_sign: Desktop-App für den PC verfügbar<br />
-(:heavy_minus_sign:) meiner Meinung nach, optisch nicht ganz so sexy wie andere Messenger<br />
-:arrow_right: Dieser Negativpunkt wird wohl schon bald obsolet sein, da Signal neue Funktionen angekündigt hat, siehe [hier](https://www.pctipp.ch/news/apps/signal-kuendigt-neue-funktionen-an-2621359.html 'Heise: Signal neue Funktionen').<br />
+:heavy_plus_sign: optisch sehr ansprechend (Einstellbare Chat-Faben, Hintergrund,...)<br />
+:heavy_plus_sign: Reaktionen auf einzelnen Nachrichten ermöglichen "schlanke / clevere" kommunikation und auch einfache Abstimmungen<br />
+:heavy_plus_sign: Versand von mehreren Bildern geschieht als Album<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
@@ -142,6 +143,7 @@ Signal ist die einzige "echte" Alternative für jemanden, der Wert auf Datenschu
 
 :heavy_plus_sign: open-source (:arrow_right: siehe hierzu folgenden [Link](https://threema.ch/de/open-source 'Threema open-source'))<br />
 :heavy_plus_sign: Zwar keine Desktop-App für den PC verfügbar, aber mit ThreemaWeb auch problemlos am PC nutzbar<br />
+:heavy_plus_sign: Umfragen möglich<br />
 :heavy_minus_sign: Nicht kostenlos (zur Zeit einmalig 3,99€), aber das ist mir die sichere Kommunikation mit Dir auf jeden Fall wert!<br />
 :heavy_minus_sign: Auf den ersten Blick verwirrendes Ampelsystem zur Nutzervalidierung<br />
 
