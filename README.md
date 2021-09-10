@@ -14,7 +14,7 @@ Heute (10.09.2021) bin ich jedoch auf einen Artikel zum Thema **Meta-Daten** ges
 
 ---
 Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben, WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich, nachdem ich meinen WhatsApp-Account gelöscht habe, nicht tot und ich möchte auch nicht den Kontakt zu Dir oder meinen anderen Freunden und Bekannten, abbrechen!<br />
-Über (vorzugsweise:star_eyes:) *Signal*, *Threema*, (wenn es sein muss...:unamused:)  *Telegram*, *E-Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
+Über (vorzugsweise:grin:) *Signal*, *Threema*, (wenn es sein muss...:unamused:)  *Telegram*, *E-Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
 
 ---
 ## Gliederung
