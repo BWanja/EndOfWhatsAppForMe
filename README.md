@@ -129,7 +129,7 @@ Es gibt eine Vielzahl an Alternativen zu WA.
 :heavy_plus_sign: durch Experten bestätigte Sicherheit<br />
 :heavy_plus_sign: Desktop-App für den PC verfügbar<br />
 :heavy_plus_sign: optisch sehr ansprechend (Einstellbare Chat-Faben, Hintergrund,...)<br />
-:heavy_plus_sign: Reaktionen auf einzelnen Nachrichten ermöglichen "schlanke / clevere" kommunikation und auch einfache Abstimmungen<br />
+:heavy_plus_sign: Reaktionen auf einzelnen Nachrichten ermöglichen "schlanke / clevere" Kommunikation und auch einfache Abstimmungen<br />
 :heavy_plus_sign: Versand von mehreren Bildern geschieht als Album<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
