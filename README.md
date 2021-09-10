@@ -5,8 +5,16 @@
   (Abbildung entnommen aus: [2])
 </p>
 
+**[Update 10.09.2021]**<br />
+
+Moin und herzlich willkommen!
+
+Ich habe den Großteil dieses Repositorys im Januar 2021 erstellt. Seitdem ich mich im Februar 2021 von *WhatsApp* getrennt habe, hat das Thema "sicherer Messenger" keine große Rolle in meinem Leben gespielt. Ich habe in dem Messenger *Signal* eine fantastische Alternative gefunden, die mir (mittlerweile) von der Handhabung und vom Funktionsumfang noch viel besser als *WhatsApp* gefällt. Seither bestand für mich nicht mehr die Notwendigkeit, in dieses Repository hereinzuschauen. Siehe es mir deshalb bitte nach, wenn Du hier nicht mehr den absolut neuesten Stand zu der gesamten Thematik findet...:see_no_evil:<br />
+Heute (10.09.2021) bin ich jedoch auf einen Artikel zum Thema **Meta-Daten** gestoßen, welchen ich dir sehr ans :heart: legen möchte. Du findest ihn am Ende des Abschnittes *Sind meine Daten überhaupt so wichtig?*, zu welchem Du mit folgendem [:arrow_right: Link](#sind-meine-daten-überhaupt-so-wichtig) springen kannst.<br />
+
+---
 Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben, WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich, nachdem ich meinen WhatsApp-Account gelöscht habe, nicht tot und ich möchte auch nicht den Kontakt zu Dir oder meinen anderen Freunden und Bekannten, abbrechen!<br />
-Über (vorzugsweise) *Signal*, *Threema*, (wenn es sein muss) *Telegram*, *E-Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
+Über (vorzugsweise:star_eyes:) *Signal*, *Threema*, (wenn es sein muss...:unamused:)  *Telegram*, *E-Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
 
 ---
 ## Gliederung
@@ -97,6 +105,9 @@ Welche Informationen über einen Menschen man allein aus der Verarbeitung seiner
 >
 
 Und dies alles nur aus Meta-Daten, also ohne Inhalte...<br />
+
+**[Update 10.09.2021]**<br />
+Unter folgendem [Link](https://netzpolitik.org/2021/metadaten-wo-das-eigentliche-privacy-problem-von-whatsapp-liegt/ 'Netzpolitik.org: Metadaten') findest Du den Artikel 'Metadaten - Wo das eigentliche Privacy-Problem von WhatsApp liegt' auf *Netzpolitik.org*, welcher noch einmal zeigt, **warum es so wichtig ist seine Meta-Daten zu schützen**. Vor allem die letzten beiden Abschnitte gehen hierauf ein. Viel Freude bei der Lektüre und gerne teilen!<br />
 
 Back to the [:top:](#Gliederung).
 
