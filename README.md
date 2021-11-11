@@ -33,7 +33,7 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 ## Meine Gründe
 
-Seit dem 07.01.2021 teilt *WhatsApp* (*WA*) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen Facebook (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist ***WA* schlicht ab dem 8. Februar 2021 nicht mehr nutzbar**. *WA* setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. *Heise* liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
+Seit dem 07.01.2021 teilt *WhatsApp* (*WA*) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen *Facebook* (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist ***WA* schlicht ab dem 8. Februar 2021 nicht mehr nutzbar**. *WA* setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. *Heise* liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
 **[Update 16.01.2021]**<br />
 Nach heftiger Kritik und einer regelrechten Abwanderungswelle verlängert *WA* die **Frist bis Mitte Mai** (siehe hierzu [Tagesschau](https://www.tagesschau.de/ausland/whatsapp-datenschutz-verschiebung-101.html 'Tagesschau: WA Frist Update') und [Heise](https://heise.de/-5026474 'Heise: WA Frist Update')). Die Pistole bleibt dennoch auf der Brust!<br />
@@ -42,7 +42,7 @@ Nach heftiger Kritik und einer regelrechten Abwanderungswelle verlängert *WA* d
   <img src="/Images/MeldungWA.PNG"><br />
 </p>
 
-Seit der **Übernahme von *WA* durch FB** im Jahr 2014 beschleicht neben vielen anderen *WA*-Nutzern auch mich das Gefühl, dass meine Daten auch bei FB direkt landen könnten und das, obwohl ich gar keinen FB-Account mehr habe. Auch wenn die **Daten von EU-Bürgern wohl nicht betroffen** sein sollen (siehe dazu folgenden [Artikel](https://www.pcwelt.de/news/WhatsApp-verwirrt-Nutzer-mit-neuen-Nutzungsbedingungen-10954208.html 'PC-Welt: WA verwirrt Nutzer') von *PC-Welt*) und sich demnach für uns hier in Europa erst einmal nichts ändern soll, bleibt dennoch für mich ein negativer Beigeschmack.<br />
+Seit der **Übernahme von *WA* durch *FB*** im Jahr 2014 beschleicht neben vielen anderen *WA*-Nutzern auch mich das Gefühl, dass meine Daten auch bei *FB* direkt landen könnten und das, obwohl ich gar keinen *FB*-Account mehr habe. Auch wenn die **Daten von EU-Bürgern wohl nicht betroffen** sein sollen (siehe dazu folgenden [Artikel](https://www.pcwelt.de/news/WhatsApp-verwirrt-Nutzer-mit-neuen-Nutzungsbedingungen-10954208.html 'PC-Welt: WA verwirrt Nutzer') von *PC-Welt*) und sich demnach für uns hier in Europa erst einmal nichts ändern soll, bleibt dennoch für mich ein negativer Beigeschmack.<br />
 
 Im Folgenden führe ich **vier Gründe** an, die mir für meine Entscheidung, mich von *WA* zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
 
@@ -50,7 +50,7 @@ Im Folgenden führe ich **vier Gründe** an, die mir für meine Entscheidung, mi
 
 Aus *WA*'s Datenschutzerklärung [4]:<br />
 
->Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich individueller IDs für Produkte von Facebook-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
+>Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich individueller IDs für Produkte von *Facebook*-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
 >
 
 **2. *WA* will wissen, wo ich bin, auch wenn ich es ihnen nicht sagen möchte**<br />
@@ -111,11 +111,11 @@ Unter folgendem [Link](https://netzpolitik.org/2021/metadaten-wo-das-eigentliche
 
 Back to the [:top:](#Gliederung).
 
-## Ich kann doch eh nichts gegen Konzerne wie Facebook ausrichten...
+## Ich kann doch eh nichts gegen Konzerne wie *Facebook* ausrichten...
 
 (von Sebastian Gau)
 
-"... da muss der Gesetzgeber einspringen, am besten auf EU-Ebene. Außerdem ist unser EU-Datenschutzgesetz ja schon super, da muss sich *WhatsApp*/*Facebook* dran halten" Da sage ich: Ja, müsste er, und ja, ist es, zumindest im Vergleich zum Amerikanischen oder Chinesischen Pendant die haarsträubender kaum sein könnten. Und ja, Facebook müsste sich auch an das EU-Datenschutzgesetz halten. Seit dem Skandal um Cambridge Analytica ist mir jedoch klar, dass Facebook nicht immer verantwortungsvoll mit personenbezogenen Daten umgeht, und daher selbst konsumentenfreundliche Datenschutzgesetze nicht immer wirksam sind. Außerdem ist es als Endnutzer sehr schwer zu kontrollieren, was denn wirklich mit den Daten passiert. Das einzige Mittel, das zu 100% wirksam gegen die Datenkraken hilft sind konsequente Endscheidungen durch die Endnutzer. Wer unsere Daten nicht bekommt, der kann sie auch nicht missbrauchen.
+"... da muss der Gesetzgeber einspringen, am besten auf EU-Ebene. Außerdem ist unser EU-Datenschutzgesetz ja schon super, da muss sich *WhatsApp*/*Facebook* dran halten" Da sage ich: Ja, müsste er, und ja, ist es, zumindest im Vergleich zum Amerikanischen oder Chinesischen Pendant die haarsträubender kaum sein könnten. Und ja, *Facebook* müsste sich auch an das EU-Datenschutzgesetz halten. Seit dem Skandal um Cambridge Analytica ist mir jedoch klar, dass *Facebook* nicht immer verantwortungsvoll mit personenbezogenen Daten umgeht, und daher selbst konsumentenfreundliche Datenschutzgesetze nicht immer wirksam sind. Außerdem ist es als Endnutzer sehr schwer zu kontrollieren, was denn wirklich mit den Daten passiert. Das einzige Mittel, das zu 100% wirksam gegen die Datenkraken hilft sind konsequente Endscheidungen durch die Endnutzer. Wer unsere Daten nicht bekommt, der kann sie auch nicht missbrauchen.
 
 ## Alternativen
 
@@ -178,7 +178,7 @@ Back to the [:top:](#Gliederung).
 
 Falls Du dich noch ein bisschen mehr mit dem Thema beschäftigen möchtest, habe ich hier noch drei Bücher für Dich, die dir mit Sicherheit Freude bereiten werden.<br />
 
-* Über den Einfluss von **GAFAM** (Google, Amazon, Facebook, Apple, Microsoft): <br />
+* Über den Einfluss von **GAFAM** (*Google*, *Amazon*, *Facebook*, *Apple*, *Microsoft*): <br />
   * Paul Nemitz u. Matthias Pfeffer: *Prinzip Mensch, Macht, Freiheit und Demokratie im Zeitalter der Künstlichen Intelligenz* <br />
   * siehe hierzu folgenden [Link](https://prinzipmenscheu.wordpress.com/ 'Homepage Prinzip Mensch') <br />
 * Über den Einfluss von **Social Media**: <br />
