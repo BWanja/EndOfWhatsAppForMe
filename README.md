@@ -33,34 +33,34 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 ## Meine Gründe
 
-Seit dem 07.01.2021 teilt *WhatsApp* (WA) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen Facebook (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab dem 8. Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. *Heise* liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
+Seit dem 07.01.2021 teilt *WhatsApp* (*WA*) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen Facebook (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist ***WA* schlicht ab dem 8. Februar 2021 nicht mehr nutzbar**. *WA* setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. *Heise* liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
 **[Update 16.01.2021]**<br />
-Nach heftiger Kritik und einer regelrechten Abwanderungswelle verlängert WA die **Frist bis Mitte Mai** (siehe hierzu [Tagesschau](https://www.tagesschau.de/ausland/whatsapp-datenschutz-verschiebung-101.html 'Tagesschau: WA Frist Update') und [Heise](https://heise.de/-5026474 'Heise: WA Frist Update')). Die Pistole bleibt dennoch auf der Brust!<br />
+Nach heftiger Kritik und einer regelrechten Abwanderungswelle verlängert *WA* die **Frist bis Mitte Mai** (siehe hierzu [Tagesschau](https://www.tagesschau.de/ausland/whatsapp-datenschutz-verschiebung-101.html 'Tagesschau: WA Frist Update') und [Heise](https://heise.de/-5026474 'Heise: WA Frist Update')). Die Pistole bleibt dennoch auf der Brust!<br />
 
 <p align="center"><br />
   <img src="/Images/MeldungWA.PNG"><br />
 </p>
 
-Seit der **Übernahme von WA durch FB** im Jahr 2014 beschleicht neben vielen anderen WA-Nutzern auch mich das Gefühl, dass meine Daten auch bei FB direkt landen könnten und das, obwohl ich gar keinen FB-Account mehr habe. Auch wenn die **Daten von EU-Bürgern wohl nicht betroffen** sein sollen (siehe dazu folgenden [Artikel](https://www.pcwelt.de/news/WhatsApp-verwirrt-Nutzer-mit-neuen-Nutzungsbedingungen-10954208.html 'PC-Welt: WA verwirrt Nutzer') von *PC-Welt*) und sich demnach für uns hier in Europa erst einmal nichts ändern soll, bleibt dennoch für mich ein negativer Beigeschmack.<br />
+Seit der **Übernahme von *WA* durch FB** im Jahr 2014 beschleicht neben vielen anderen *WA*-Nutzern auch mich das Gefühl, dass meine Daten auch bei FB direkt landen könnten und das, obwohl ich gar keinen FB-Account mehr habe. Auch wenn die **Daten von EU-Bürgern wohl nicht betroffen** sein sollen (siehe dazu folgenden [Artikel](https://www.pcwelt.de/news/WhatsApp-verwirrt-Nutzer-mit-neuen-Nutzungsbedingungen-10954208.html 'PC-Welt: WA verwirrt Nutzer') von *PC-Welt*) und sich demnach für uns hier in Europa erst einmal nichts ändern soll, bleibt dennoch für mich ein negativer Beigeschmack.<br />
 
-Im Folgenden führe ich **vier Gründe** an, die mir für meine Entscheidung, mich von WA zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
+Im Folgenden führe ich **vier Gründe** an, die mir für meine Entscheidung, mich von *WA* zu verabschieden, bereits genügen. Bei der Lektüre der von mir angeführten [Quellen](#Quellen) und [weiterführenden Literatur](#Weiteres-zum-Thema) wirst Du schnell merken, dass sich die Liste beliebig verlängern lässt... :wink:
 
-**1. WA holt sich Infos über mein Gerät**<br />
+**1. *WA* holt sich Infos über mein Gerät**<br />
 
-Aus WA's Datenschutzerklärung [4]:<br />
+Aus *WA*'s Datenschutzerklärung [4]:<br />
 
 >Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. Dazu gehören auch Informationen zu deinem Hardware-Modell und Betriebssystem, Batteriestand, Signalstärke, App-Version, Informationen zum Browser und Mobilfunknetz sowie zu der Verbindung, einschließlich Telefonnummer, Mobilfunk- oder Internetanbieter, Sprache und Zeitzone, IP-Adresse, Informationen zum Gerätebetrieb und Kennungen (einschließlich individueller IDs für Produkte von Facebook-Unternehmen, die mit demselben Gerät oder Account verknüpft sind).
 >
 
-**2. WA will wissen, wo ich bin, auch wenn ich es ihnen nicht sagen möchte**<br />
+**2. *WA* will wissen, wo ich bin, auch wenn ich es ihnen nicht sagen möchte**<br />
 
-Aus WA's Datenschutzerklärung [4]:<br />
+Aus *WA*'s Datenschutzerklärung [4]:<br />
 
 >Mit deiner Zustimmung erheben und nutzen wir **genaue Standortinformationen** von deinem Gerät, wenn du standortbezogene Funktionen nutzt, z. B., wenn du deinen Standort mit deinen Kontakten teilst oder dir Standorte in der Nähe oder von deinen Kontakten mit dir geteilte Standorte ansiehst. In den Einstellungen deines Geräts oder der App findest du bestimmte Einstellungen in Zusammenhang mit Standortinformationen, z. B. Einstellungen zum Teilen deines Standorts. **Auch dann, wenn du unsere standortbezogenen Funktionen nicht nutzt**, verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort bestimmen zu können (z. B. Ort/Stadt und Land). Wir nutzen deine Standortinformationen außerdem für Diagnose- und Fehlerbehebungszwecke.
 ><br />
 
-**3. WA schnüffelt in meinem Adressbuch rum**<br />
+**3. *WA* schnüffelt in meinem Adressbuch rum**<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
@@ -70,11 +70,11 @@ Offiziell nutzt *WhatsApp* dein Telefonbuch, um dir anzuzeigen, welche deiner Ko
 
 :arrow_right: Geht das auch anders? Gott sei Dank, ja! Schau mal [hier](#Signal)!
 
-**4. WA trackt meine Nutzung immer und überall**
+**4. *WA* trackt meine Nutzung immer und überall**
 
-Auch wenn WA dank End-zu-Ende-Verschlüsselung vielleicht nicht weiß, _WAS_ ich mit euch schreibe, so weiß WA aber dennoch genau, _DASS_ ich mit euch schreibe!<br />
+Auch wenn *WA* dank End-zu-Ende-Verschlüsselung vielleicht nicht weiß, _WAS_ ich mit euch schreibe, so weiß *WA* aber dennoch genau, _DASS_ ich mit euch schreibe!<br />
 
-Aus WA's Datenschutzerklärung [4]:<br />
+Aus *WA*'s Datenschutzerklärung [4]:<br />
 
 >Wir erheben Informationen über deine Aktivität auf unseren Diensten. [...] Dies umfasst auch **Informationen über deine Aktivität** (beispielsweise wie du unsere Dienste nutzt, deine Einstellungen für Dienste, wie du mit anderen unter Nutzung unserer Dienste interagierst (z. B. wenn du mit einem Unternehmen interagierst) sowie **Zeitpunkt, Häufigkeit und Dauer deiner Aktivitäten und Interaktionen**), [...] Dies umfasst auch Informationen darüber, wann du dich für die Nutzung unserer Dienste registriert hast, Informationen über die von dir genutzten Funktionen wie unsere Nachrichten-, Anruf-, Status-, Gruppen- (darunter Gruppenname, Gruppenbild, Gruppenbeschreibung), Zahlungs- oder Geschäftsfunktionen, über dein Profilbild, über deine **Info, dazu, ob du gerade online bist, wann du zuletzt unsere Dienste genutzt hast (dein „Zuletzt online“) und wann du zuletzt deine Info aktualisiert hast**. 
 ><br />
@@ -119,7 +119,7 @@ Back to the [:top:](#Gliederung).
 
 ## Alternativen
 
-Es gibt eine Vielzahl an Alternativen zu WA.
+Es gibt eine Vielzahl an Alternativen zu *WA*.
 *Heise* gibt entweder [hier](https://www.heise.de/tipps-tricks/WhatsApp-Alternativen-Welche-Messenger-gibt-es-3976153.html 'Heise: Alternativenzu WA') oder [hier](https://www.heise.de/tests/Es-muss-nicht-immer-WhatsApp-sein-Sieben-Messenger-Alternativen-im-Vergleich-4415657.html 'Heise +: Alternativen zu WA') (*Heise+* - Artikel) einen sehr guten Überblick. Die nachfolgende Auflistung ist lediglich eine Auswahl. Über diese drei Messenger kannst Du mich weiterhin erreichen.<br />
 
 ### Signal
@@ -149,7 +149,7 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
 ### Telegram
 
-:heavy_plus_sign: Look-and-Feel sehr ähnlich zu WA<br />
+:heavy_plus_sign: Look-and-Feel sehr ähnlich zu *WA*<br />
 :heavy_plus_sign: abonnierbare News-Channels<br />
 :heavy_plus_sign: Desktop-App für den PC verfügbar<br />
 :heavy_minus_sign: *geheime* Chats möglich, aber Einstellung umständlich<br />
@@ -187,7 +187,7 @@ Falls Du dich noch ein bisschen mehr mit dem Thema beschäftigen möchtest, habe
   * Edward Snowden: *Permanent Record*<br />
 
 Ich freue mich natürlich auch über **Feedback** und würde mich sehr freuen, mit Dir **über das Thema zu diskutieren**.<br />
-**Aber**: Bitte nicht auf WA... :wink:<br />
+**Aber**: Bitte nicht auf *WA*... :wink:<br />
 
 Back to the [:top:](#Gliederung).
 
