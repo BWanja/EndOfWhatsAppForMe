@@ -13,7 +13,7 @@ Ich habe den Großteil dieses Repositorys im Januar 2021 erstellt. Seitdem ich m
 Heute (10.09.2021) bin ich jedoch auf einen Artikel zum Thema **Meta-Daten** gestoßen, welchen ich dir sehr ans :heart: legen möchte. Du findest ihn am Ende des Abschnittes *Sind meine Daten überhaupt so wichtig?*, zu welchem Du mit folgendem [:arrow_right: Link](#sind-meine-daten-überhaupt-so-wichtig) springen kannst.<br />
 
 ---
-Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben, WhatsApp den Rücken zuzukehren. Selbstverständlich bin ich, nachdem ich meinen WhatsApp-Account gelöscht habe, nicht tot und ich möchte auch nicht den Kontakt zu Dir oder meinen anderen Freunden und Bekannten, abbrechen!<br />
+Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschauen. Dieses kleine Repository soll ein paar Informationen zusammenfassen, die mich dazu bewegt haben, *WhatsApp* den Rücken zuzukehren. Selbstverständlich bin ich, nachdem ich meinen *WhatsApp*-Account gelöscht habe, nicht tot und ich möchte auch nicht den Kontakt zu Dir oder meinen anderen Freunden und Bekannten, abbrechen!<br />
 Über (vorzugsweise:grin:) *Signal*, *Threema*, (wenn es sein muss...:unamused:)  *Telegram*, *E-Mail* und *Telefon* bin ich natürlich weiterhin erreichbar, aber am meisten freue ich mich, wenn wir uns einmal wieder *persönlich* sehen können!
 
 ---
@@ -33,7 +33,7 @@ Ich freue mich sehr, dass Du dir Zeit genommen hast, um hier kurz vorbeizuschaue
 
 ## Meine Gründe
 
-Seit dem 07.01.2021 teilt WhatsApp (WA) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen Facebook (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab dem 8. Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. *Heise* liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
+Seit dem 07.01.2021 teilt *WhatsApp* (WA) seinen Nutzern mit, dass seine Datenschutzrichtlinien dahingehend geändert wurden, dass **Informationen**, welche aus der App gewonnen werden, zukünftig auch **mit anderen Facebook (FB)-Unternehmen geteilt** werden. Stimmt man dieser Erklärung nicht binnen eines Monats zu, ist **WA schlicht ab dem 8. Februar 2021 nicht mehr nutzbar**. WA setzt seinen Nutzern also gewissermaßen die Pistole auf die Brust. *Heise* liefert unter folgendem [Link](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html 'Heise: WA ändert Nutzungsbedingungen') einen guten Enstieg ins Thema.<br />
 
 **[Update 16.01.2021]**<br />
 Nach heftiger Kritik und einer regelrechten Abwanderungswelle verlängert WA die **Frist bis Mitte Mai** (siehe hierzu [Tagesschau](https://www.tagesschau.de/ausland/whatsapp-datenschutz-verschiebung-101.html 'Tagesschau: WA Frist Update') und [Heise](https://heise.de/-5026474 'Heise: WA Frist Update')). Die Pistole bleibt dennoch auf der Brust!<br />
@@ -64,8 +64,8 @@ Aus WA's Datenschutzerklärung [4]:<br />
 
 Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
->Kaum etwas verrät mehr über einen Menschen, als mit wem er Kontakt hat. Aus den Telefonbüchern mehrerer WhatsApp-Nutzerinnen und -Nutzer könnte man problemlos **detaillierte Netzwerke erstellen**. Nichts anderes tun Geheimdienste, wenn sie eine Zielperson ausspionieren.
-Offiziell nutzt WhatsApp dein Telefonbuch, um dir anzuzeigen, welche deiner Kontakte ebenfalls WhatsApp nutzen. Das ist praktisch, lässt sich technisch aber auch anders lösen.
+>Kaum etwas verrät mehr über einen Menschen, als mit wem er Kontakt hat. Aus den Telefonbüchern mehrerer *WhatsApp*-Nutzerinnen und -Nutzer könnte man problemlos **detaillierte Netzwerke erstellen**. Nichts anderes tun Geheimdienste, wenn sie eine Zielperson ausspionieren.
+Offiziell nutzt *WhatsApp* dein Telefonbuch, um dir anzuzeigen, welche deiner Kontakte ebenfalls *WhatsApp* nutzen. Das ist praktisch, lässt sich technisch aber auch anders lösen.
 ><br />
 
 :arrow_right: Geht das auch anders? Gott sei Dank, ja! Schau mal [hier](#Signal)!
@@ -107,7 +107,7 @@ Welche Informationen über einen Menschen man allein aus der Verarbeitung seiner
 Und dies alles nur aus Meta-Daten, also ohne Inhalte...<br />
 
 **[Update 10.09.2021]**<br />
-Unter folgendem [Link](https://netzpolitik.org/2021/metadaten-wo-das-eigentliche-privacy-problem-von-whatsapp-liegt/ 'Netzpolitik.org: Metadaten') findest Du den Artikel 'Metadaten - Wo das eigentliche Privacy-Problem von WhatsApp liegt' auf *Netzpolitik.org*, welcher noch einmal zeigt, **warum es so wichtig ist seine Meta-Daten zu schützen**. Vor allem die letzten beiden Abschnitte gehen hierauf ein. Viel Freude bei der Lektüre und gerne teilen!<br />
+Unter folgendem [Link](https://netzpolitik.org/2021/metadaten-wo-das-eigentliche-privacy-problem-von-whatsapp-liegt/ 'Netzpolitik.org: Metadaten') findest Du den Artikel 'Metadaten - Wo das eigentliche Privacy-Problem von *WhatsApp* liegt' auf *Netzpolitik.org*, welcher noch einmal zeigt, **warum es so wichtig ist seine Meta-Daten zu schützen**. Vor allem die letzten beiden Abschnitte gehen hierauf ein. Viel Freude bei der Lektüre und gerne teilen!<br />
 
 Back to the [:top:](#Gliederung).
 
@@ -115,7 +115,7 @@ Back to the [:top:](#Gliederung).
 
 (von Sebastian Gau)
 
-"... da muss der Gesetzgeber einspringen, am besten auf EU-Ebene. Außerdem ist unser EU-Datenschutzgesetz ja schon super, da muss sich WhatsApp/Facebook dran halten" Da sage ich: Ja, müsste er, und ja, ist es, zumindest im Vergleich zum Amerikanischen oder Chinesischen Pendant die haarsträubender kaum sein könnten. Und ja, Facebook müsste sich auch an das EU-Datenschutzgesetz halten. Seit dem Skandal um Cambridge Analytica ist mir jedoch klar, dass Facebook nicht immer verantwortungsvoll mit personenbezogenen Daten umgeht, und daher selbst konsumentenfreundliche Datenschutzgesetze nicht immer wirksam sind. Außerdem ist es als Endnutzer sehr schwer zu kontrollieren, was denn wirklich mit den Daten passiert. Das einzige Mittel, das zu 100% wirksam gegen die Datenkraken hilft sind konsequente Endscheidungen durch die Endnutzer. Wer unsere Daten nicht bekommt, der kann sie auch nicht missbrauchen.
+"... da muss der Gesetzgeber einspringen, am besten auf EU-Ebene. Außerdem ist unser EU-Datenschutzgesetz ja schon super, da muss sich *WhatsApp*/*Facebook* dran halten" Da sage ich: Ja, müsste er, und ja, ist es, zumindest im Vergleich zum Amerikanischen oder Chinesischen Pendant die haarsträubender kaum sein könnten. Und ja, Facebook müsste sich auch an das EU-Datenschutzgesetz halten. Seit dem Skandal um Cambridge Analytica ist mir jedoch klar, dass Facebook nicht immer verantwortungsvoll mit personenbezogenen Daten umgeht, und daher selbst konsumentenfreundliche Datenschutzgesetze nicht immer wirksam sind. Außerdem ist es als Endnutzer sehr schwer zu kontrollieren, was denn wirklich mit den Daten passiert. Das einzige Mittel, das zu 100% wirksam gegen die Datenkraken hilft sind konsequente Endscheidungen durch die Endnutzer. Wer unsere Daten nicht bekommt, der kann sie auch nicht missbrauchen.
 
 ## Alternativen
 
@@ -136,13 +136,13 @@ Aus _Sechs Gründe, warum du WhatsApp sofort löschen solltest_ [2]:<br />
 
 >Der Messenger Signal hat zum Beispiel **keinen Einblick in dein Telefonbuch**. Stattdessen rechnet die App die Telefonnummern deiner Kontakte in einzigartige Zeichenwerte um, sogenannte Hashes. Signal kennt also **nur die Hashes, nicht die echten Nummern**. Wenn ein Hash bereits mit einem Signal-Nutzer verknüpft ist, erscheint er als verfügbarer Signal-Kontakt in deiner App.
 
-Signal ist die einzige "echte" Alternative für jemanden, der Wert auf Datenschutz legt.
+*Signal* ist die einzige "echte" Alternative für jemanden, der Wert auf Datenschutz legt.
 
 
 ### Threema
 
 :heavy_plus_sign: open-source (:arrow_right: siehe hierzu folgenden [Link](https://threema.ch/de/open-source 'Threema open-source'))<br />
-:heavy_plus_sign: Zwar keine Desktop-App für den PC verfügbar, aber mit ThreemaWeb auch problemlos am PC nutzbar<br />
+:heavy_plus_sign: Zwar keine Desktop-App für den PC verfügbar, aber mit *ThreemaWeb* auch problemlos am PC nutzbar<br />
 :heavy_plus_sign: Umfragen möglich<br />
 :heavy_minus_sign: Nicht kostenlos (zur Zeit einmalig 3,99€), aber das ist mir die sichere Kommunikation mit Dir auf jeden Fall wert!<br />
 :heavy_minus_sign: Auf den ersten Blick verwirrendes Ampelsystem zur Nutzervalidierung<br />
@@ -154,9 +154,9 @@ Signal ist die einzige "echte" Alternative für jemanden, der Wert auf Datenschu
 :heavy_plus_sign: Desktop-App für den PC verfügbar<br />
 :heavy_minus_sign: *geheime* Chats möglich, aber Einstellung umständlich<br />
 :heavy_minus_sign: die Sicherheit der Chats steht in der Kritik<br />
-:arrow_right: Zur Sicherheit von Telegram empfehle ich Dir den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram').<br />
+:arrow_right: Zur Sicherheit von *Telegram* empfehle ich Dir den Artikel unter folgendem [Link](https://www.heise.de/hintergrund/Telegram-Chat-der-sichere-Datenschutz-Albtraum-eine-Analyse-und-ein-Kommentar-4965774.html 'Heise: Sicherheit Telegram').<br />
 
-In diesem Artikel ist Folgendes über Telegram zu lesen (aus [6]):
+In diesem Artikel ist Folgendes über *Telegram* zu lesen (aus [6]):
 >Wer Telegram nutzt, sollte sich hingegen im Klaren sein, dass er sich einem **undurchsichtigen und sehr dubiosen Firmen-Konstrukt** ausliefert, über dessen Motive so gut wie nichts bekannt ist. Man kann das durchaus tun, etwa, weil es **praktisch, schick und angesagt** ist. Aber **mit Sicherheit und Datenschutz sollte man dabei nicht argumentieren**. Denn in dieser Hinsicht ist Telegram eine glatte Katastrophe.
 
 
@@ -164,9 +164,9 @@ In diesem Artikel ist Folgendes über Telegram zu lesen (aus [6]):
 
 (von Sebastian Gau)
 
-Allerdings sind auch diese Alternativen bei Weitem nicht perfekt. Sämtliche Dienste setzen nicht auf offene Standards. Das Resultat für uns Nutzer: Du kannst nicht providerübergreifend kommunizieren, zB mit Signal keine Nachrichten an Telegram oder Threema schicken - das erzeugt einen technisch unnötigen Lock-In sowie eine natürliche Tendenz zur Monopolisierung. Bei ausreichender Nutzerbasis besteht massiver ein wirtschaftlicher Anreiz für Konzerne mit dem nötigen Kleingeld, die Messaging-Inseln zu übernehmen und für ihre Zwecke zu instrumentalisieren, wie geschehen bei WhatsApp.
+Allerdings sind auch diese Alternativen bei Weitem nicht perfekt. Sämtliche Dienste setzen nicht auf offene Standards. Das Resultat für uns Nutzer: Du kannst nicht providerübergreifend kommunizieren, zB mit *Signal* keine Nachrichten an *Telegram* oder *Threema* schicken - das erzeugt einen technisch unnötigen Lock-In sowie eine natürliche Tendenz zur Monopolisierung. Bei ausreichender Nutzerbasis besteht massiver ein wirtschaftlicher Anreiz für Konzerne mit dem nötigen Kleingeld, die Messaging-Inseln zu übernehmen und für ihre Zwecke zu instrumentalisieren, wie geschehen bei *WhatsApp*.
 
-Providerunabhängigkeit ist die Basis für fairen Wettbewerb, und sollte daher etwas Selbstverständliches sein. Stelle dir einmal vor, du könntest mit einem Internetanschluss der deutschen Telekom nicht mit deinem Freund kommunizieren, der einen Anschluss von Vodafone bezieht, oder mit deinem Googlemail-Account keine Emails an GMX-Adressen schreiben. Das wäre sicherlich eine sehr deprimierende Welt. Die Lösung des Problems - übertragen auf Instant-Messenger - existiert bereits und lautet [XMPP](https://xmpp.org/), ein offener Standard für Instant Messaging. Durch XMPP können Chat-Client (die App, die du auf deinem Smartphone installierst) und Chat-Server (das Programm, das irgendwo im Internet für die Übertragung deiner Nachrichten und Dateien verantwortlich ist) vom Endnutzer in gewissem Umfang unabhängig gewählt werden, ebenso ist eine Nachrichtenübertragung zwischen Chat-Servern möglich (d.h. du könntest zB Threema-Nachrichten auf Signal empfangen und umgekehrt). In der Konsequenz kannst du als Endnutzer deinen Chat-Provider wie deinen EMail-Provider frei wählen, ebenso wie deinen Chat-Client oder EMail-Client (zB Thunderbird oder Outlook).
+Providerunabhängigkeit ist die Basis für fairen Wettbewerb, und sollte daher etwas Selbstverständliches sein. Stelle dir einmal vor, du könntest mit einem Internetanschluss der deutschen Telekom nicht mit deinem Freund kommunizieren, der einen Anschluss von Vodafone bezieht, oder mit deinem Googlemail-Account keine Emails an GMX-Adressen schreiben. Das wäre sicherlich eine sehr deprimierende Welt. Die Lösung des Problems - übertragen auf Instant-Messenger - existiert bereits und lautet [XMPP](https://xmpp.org/), ein offener Standard für Instant Messaging. Durch XMPP können Chat-Client (die App, die du auf deinem Smartphone installierst) und Chat-Server (das Programm, das irgendwo im Internet für die Übertragung deiner Nachrichten und Dateien verantwortlich ist) vom Endnutzer in gewissem Umfang unabhängig gewählt werden, ebenso ist eine Nachrichtenübertragung zwischen Chat-Servern möglich (d.h. du könntest zB *Threema*-Nachrichten auf *Signal* empfangen und umgekehrt). In der Konsequenz kannst du als Endnutzer deinen Chat-Provider wie deinen EMail-Provider frei wählen, ebenso wie deinen Chat-Client oder EMail-Client (zB Thunderbird oder Outlook).
 
 Jetzt fragst du sicherlich: Warum nutzen wir das nicht? Naja, da sind wir wieder bei den Nutzerentscheidungen. Zu vielen Nutzern ist ihre Privatsphäre einfach völlig egal, es ist ja "nur" unbedeutende private Chatkommunikation. In der Folge hat auch XMPP als Protokoll noch kleine Schwächen in Sachen Datenschutz, zB im Bereich [Metadaten](https://www.kuketz-blog.de/conversations-messaging-ueber-das-xmpp-protokoll-messenger-teil6/), da die Weiterentwicklung von XMPP stark von den Anforderungen der Community getrieben ist.
 
