@@ -9,7 +9,7 @@
 
 Moin und herzlich willkommen!
 
-Ich habe den Großteil dieses Repositorys im Januar 2021 erstellt. Seitdem ich mich im Februar 2021 von *WhatsApp* getrennt habe, hat das Thema "sicherer Messenger" keine große Rolle in meinem Leben gespielt. Ich habe in dem Messenger *Signal* eine fantastische Alternative gefunden, die mir (mittlerweile) von der Handhabung und vom Funktionsumfang noch viel besser als *WhatsApp* gefällt. Seither bestand für mich nicht mehr die Notwendigkeit, in dieses Repository hereinzuschauen. Siehe es mir deshalb bitte nach, wenn Du hier nicht mehr den absolut neuesten Stand zu der gesamten Thematik findet...:see_no_evil:<br />
+Ich habe den Großteil dieses Repositorys im Januar 2021 erstellt. Seitdem ich mich im Februar 2021 von *WhatsApp* getrennt habe, hat das Thema "sicherer Messenger" keine große Rolle in meinem Leben gespielt. Ich habe in dem Messenger *Signal* eine fantastische Alternative gefunden, die mir (mittlerweile) von der Handhabung und vom Funktionsumfang noch viel besser als *WhatsApp* gefällt. Seither bestand für mich nicht mehr die Notwendigkeit, in dieses Repository hereinzuschauen. Siehe es mir deshalb bitte nach, wenn Du hier nicht mehr den absolut neuesten Stand zu der gesamten Thematik findest...:see_no_evil:<br />
 Heute (10.09.2021) bin ich jedoch auf einen Artikel zum Thema **Meta-Daten** gestoßen, welchen ich dir sehr ans :heart: legen möchte. Du findest ihn am Ende des Abschnittes *Sind meine Daten überhaupt so wichtig?*, zu welchem Du mit folgendem [:arrow_right: Link](#sind-meine-daten-überhaupt-so-wichtig) springen kannst.<br />
 
 ---
